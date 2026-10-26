@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.200
+Ce guide couvre les mails envoyés, la licence, le journal des actions, et les bons réflexes de sécurité.
+
+2
+00:00:08.900 --> 00:00:16.767
+Administration, Mails envoyés : tous les mails de Resauvia, du plus récent au plus ancien. Un clic ouvre le mail.
+
+3
+00:00:17.067 --> 00:00:27.100
+Simulé : l'envoi réel n'est pas activé, le mail ne part pas. Puis en attente, envoyé, ou échec, avec l'erreur affichée dans le mail.
+
+4
+00:00:27.400 --> 00:00:40.533
+L'envoi réel se règle sur le serveur ; le service informatique règle aussi SPF, DKIM et DMARC, sinon les mails finissent en indésirables. Pendant la simulation, transmettez vous-même les liens d'invitation.
+
+5
+00:00:42.233 --> 00:00:55.000
+Administration, Licence. Sur la plupart des serveurs, elle n'est pas exigée : rien à faire. Sinon, donnez à Auxentis l'identifiant de l'organisation, et collez le fichier reçu dans Importer une licence.
+
+6
+00:00:55.300 --> 00:01:08.933
+Une licence dure un an. Vous êtes prévenus avant sa fin : un bandeau soixante jours avant, puis un mail à trente et à sept jours. Terminée, plus personne ne se connecte ; rien n'est effacé, tout rouvre avec la nouvelle licence.
+
+7
+00:01:09.233 --> 00:01:18.900
+Elle peut plafonner les comptes actifs et les ressources actives. Et chaque module est inclus ou non : un module non inclus est caché partout, ses données gardées.
+
+8
+00:01:20.600 --> 00:01:29.500
+Chaque fiche montre son historique. Et Administration, Journal des actions, montre tout : qui a fait quoi, quand, sur quelle fiche.
+
+9
+00:01:29.800 --> 00:01:37.067
+Surtout, ce qui a changé, de quoi à quoi : par exemple, le nom d'un service, avant et après.
+
+10
+00:01:37.367 --> 00:01:44.300
+Cherchez une personne ou une fiche par son nom, filtrez par type de fiche ou par date, et exportez.
+
+11
+00:01:44.600 --> 00:01:55.367
+Une réservation confidentielle que vous ne voyez pas reste masquée. Et ne vont jamais au journal : le motif d'une absence, la raison d'un refus, les mots de passe et les codes.
+
+12
+00:01:57.067 --> 00:02:04.933
+Le droit d'administrer donne tout : deux ou trois personnes, pas moins de deux. Pour les gestionnaires, des groupes avec les seuls droits utiles.
+
+13
+00:02:05.233 --> 00:02:19.833
+La double authentification s'impose dans Paramètres, Connexion : à ceux qui administrent, d'office, à ceux qui gèrent, ou à tous. Téléphone perdu sans code de secours : vérifiez que c'est bien la personne, puis réinitialisez.
+
+14
+00:02:20.133 --> 00:02:34.267
+Les clés d'accès servent de second facteur ; la connexion sans mot de passe s'ouvre aussi dans Paramètres. Les mots de passe ont douze caractères ; cinq essais manqués, quinze minutes d'attente ; et une heure sans activité ferme la session.
+
+15
+00:02:35.967 --> 00:02:47.100
+Une alerte de sécurité part à Auxentis, et en copie à votre service informatique, quand des essais de connexion en rafale sont bloqués, ou que le droit d'administrer est donné ou retiré.
+
+16
+00:02:47.400 --> 00:03:02.733
+Aussi quand une adresse de connexion change, qu'une double authentification est réinitialisée, qu'un compte qui administre se connecte depuis un appareil jamais vu, ou qu'une personne exporte dix listes en dix minutes. Chaque mail dit quoi, qui, et que faire.
+
+17
+00:03:04.433 --> 00:03:14.300
+Au départ d'un agent : décochez Compte actif ; titulaire d'un bureau partagé, changez le titulaire ; seul gestionnaire d'un groupe, ajoutez quelqu'un.
+
+18
+00:03:14.600 --> 00:03:25.700
+Puis ses réservations à venir : annulez-les, ou changez le bénéficiaire. Et s'il administrait, vérifiez qu'il en reste deux. Avec l'annuaire, la désactivation se fait seule.
