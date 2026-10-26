@@ -1,0 +1,53 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.833
+Avec ce module, les rappels importants partent aussi par SMS, en plus du mail.
+
+2
+00:00:06.133 --> 00:00:10.233
+Et chacun peut recevoir par SMS les notifications de son choix.
+
+3
+00:00:11.933 --> 00:00:25.267
+Une réservation attend l'approbation du supérieur : le rappel part aussi par SMS au N+1, ou à son remplaçant pendant une délégation. Il se règle dans Administration, Paramètres, Rappels au N+1.
+
+4
+00:00:25.567 --> 00:00:31.867
+Le SMS part au téléphone mobile de la fiche de la personne : sans numéro, seul le mail part.
+
+5
+00:00:32.167 --> 00:00:36.600
+Et les SMS sont écrits sans accents, pour passer sur tous les téléphones.
+
+6
+00:00:38.300 --> 00:00:52.333
+Les notifications par SMS s'ouvrent d'abord pour l'organisation, par l'administrateur : Administration, Paramètres, Notifications par SMS, avec le nombre de SMS par personne et par jour, vingt d'office.
+
+7
+00:00:52.633 --> 00:01:03.967
+Puis chacun, dans Mon compte, Notifications par SMS : votre numéro de mobile, Recevoir un code, et le code reçu. Un portable déjà vérifié pour vous connecter suffit.
+
+8
+00:01:04.267 --> 00:01:11.000
+Cochez les familles voulues : à traiter pour vous, vos réservations, les rappels. Aucune n'est cochée d'office.
+
+9
+00:01:11.300 --> 00:01:17.900
+Le SMS dit l'essentiel, jamais l'objet d'une réservation ni un nom, et donne le lien de la page.
+
+10
+00:01:18.200 --> 00:01:26.000
+Avec l'application mobile, vous recevez ses notifications à la place. Et au-delà du nombre de SMS par jour, le mail seulement.
+
+11
+00:01:27.700 --> 00:01:38.600
+Avant le premier envoi, le service informatique règle le compte d'envoi des SMS sur le serveur. Avant, les SMS sont seulement notés dans Administration, Mails envoyés.
+
+12
+00:01:38.900 --> 00:01:48.967
+Administration, Paramètres, champ Pays permis pour les SMS : vide, c'est la France et l'outre-mer. Aucun SMS ne part vers un autre pays.
+
+13
+00:01:49.267 --> 00:01:55.367
+Et la double authentification par SMS fait partie du logiciel de base, avec ou sans ce module.

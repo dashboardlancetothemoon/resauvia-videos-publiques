@@ -1,0 +1,81 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.200
+Avec ce module, vous savez si les ressources servent, qui réserve, quand, et comment cela évolue.
+
+2
+00:00:07.500 --> 00:00:10.167
+Et aucun nom de personne n'y apparaît.
+
+3
+00:00:11.867 --> 00:00:18.800
+Menu Piloter, Tableau de bord. Choisissez d'abord les ressources à analyser : les salles, par exemple.
+
+4
+00:00:19.100 --> 00:00:25.700
+La période : trente derniers jours d'office, de sept jours à trois ans, ou des dates choisies.
+
+5
+00:00:26.000 --> 00:00:32.500
+Comparer à : la période précédente d'office, la même période l'an dernier, ou rien.
+
+6
+00:00:32.800 --> 00:00:39.967
+Et le lieu : tous, ou un bâtiment, ses étages compris. Chaque choix s'applique tout de suite.
+
+7
+00:00:40.267 --> 00:00:45.433
+Sous chaque chiffre, l'écart avec la comparaison : plus douze pour cent, par exemple.
+
+8
+00:00:45.733 --> 00:00:57.267
+Le droit Consulter le tableau de bord montre tout ; sans lui, vous voyez ce que vous gérez. Et les réservations annulées, refusées, les options et les informations ne comptent jamais.
+
+9
+00:00:58.967 --> 00:01:05.400
+Occupation : les ressources sont-elles occupées, à la taille des réunions ? Combien d'annulations tardives ?
+
+10
+00:01:05.700 --> 00:01:10.767
+Ressources : chaque ressource classée, et un tableau croisé à composer.
+
+11
+00:01:11.067 --> 00:01:15.100
+Qui réserve : les heures par service, et par direction.
+
+12
+00:01:15.400 --> 00:01:21.233
+Quand : les jours et les heures chargés, combien de temps à l'avance, et pour quelle durée.
+
+13
+00:01:21.533 --> 00:01:26.767
+Évolution : les réservations dans le temps, par jour, semaine ou mois.
+
+14
+00:01:27.067 --> 00:01:33.800
+Chaque graphique a Afficher les données, le tableau des chiffres, et sa Source : ce qui est compté.
+
+15
+00:01:35.500 --> 00:01:38.900
+Onglet Ressources, panneau Tableau croisé.
+
+16
+00:01:39.200 --> 00:01:47.000
+En lignes : ressource, lieu, catégorie, service, mois, jour de la semaine, heure.
+
+17
+00:01:47.300 --> 00:01:51.167
+En colonnes : une autre dimension, ou rien.
+
+18
+00:01:51.467 --> 00:01:58.133
+Dans les cases : les heures réservées, les réservations, le taux d'occupation ou les personnes.
+
+19
+00:01:58.433 --> 00:02:02.167
+Exporter le tableau, pour l'avoir en entier dans un tableur.
+
+20
+00:02:03.867 --> 00:02:11.167
+Et Exporter, en tableur : une ligne par ressource, toutes les ressources, pour la période et le lieu choisis.

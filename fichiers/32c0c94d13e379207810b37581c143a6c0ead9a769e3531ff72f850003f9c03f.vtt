@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.700
+Avec ce module, les agents entrent dans Resauvia par le portail de connexion de l'organisation : ADFS, LemonLDAP, Keycloak ou Okta, sans mot de passe propre à Resauvia.
+
+2
+00:00:12.000 --> 00:00:18.333
+Le service informatique déclare Resauvia chez le fournisseur, et l'administration le règle dans Resauvia.
+
+3
+00:00:20.033 --> 00:00:28.067
+Sur la page de connexion, cliquez sur Se connecter avec, suivi du nom du portail : par exemple, Portail de la Ville.
+
+4
+00:00:28.367 --> 00:00:32.233
+Entrez comme d'habitude sur le portail : vous arrivez sur l'accueil.
+
+5
+00:00:32.533 --> 00:00:39.633
+Votre compte doit déjà exister dans Resauvia, avec la même adresse mail ; sinon, demandez à votre administrateur.
+
+6
+00:00:41.333 --> 00:00:50.000
+Pour l'administration : le service informatique déclare Resauvia chez le fournisseur, avec les adresses du panneau Pour le service informatique.
+
+7
+00:00:50.300 --> 00:00:57.067
+Dans Administration, Connexions, Connexion unique, panneau Réglages : choisissez le protocole.
+
+8
+00:00:57.367 --> 00:01:09.400
+OpenID Connect, le plus simple : l'adresse de l'émetteur, l'identifiant et le secret du client. Ou SAML 2.0 : collez les métadonnées du fournisseur, elles remplissent le reste.
+
+9
+00:01:09.700 --> 00:01:13.733
+Le nom sur le bouton : par exemple, Portail de la Ville.
+
+10
+00:01:14.033 --> 00:01:25.600
+Cochez Proposer Se connecter avec, puis Enregistrer : votre mot de passe est redemandé. Vérifiez dans une fenêtre de navigation privée : le bouton est sur la page de connexion.
+
+11
+00:01:25.900 --> 00:01:35.533
+D'office, la connexion ne crée pas de compte et ne donne aucun droit : créez les comptes avant, par invitation, ou laissez-les se créer à la première connexion.
+
+12
+00:01:35.833 --> 00:01:46.267
+Le compte est lié à son identité chez le fournisseur : une autre identité avec la même adresse est refusée. Un compte qui administre confirme la première liaison par son mot de passe.
+
+13
+00:01:46.567 --> 00:01:55.333
+Changer de fournisseur délie tous les comptes : chacun se relie à sa prochaine connexion. Et le secret est gardé chiffré, jamais réaffiché.
+
+14
+00:01:57.033 --> 00:02:06.433
+Pour éviter de créer les comptes à la main : panneau Comptes créés à la première connexion. Cochez Créer le compte d'une personne qui se connecte pour la première fois.
+
+15
+00:02:06.733 --> 00:02:12.900
+Les domaines des adresses, par exemple ville point fr : seules ces adresses reçoivent un compte.
+
+16
+00:02:13.200 --> 00:02:23.267
+Choisissez les groupes donnés aux nouveaux comptes : jamais un groupe qui administre. Si le fournisseur envoie les groupes de la personne, cochez aussi la case des groupes du même nom.
+
+17
+00:02:23.567 --> 00:02:27.267
+Enregistrer : votre mot de passe est redemandé.
+
+18
+00:02:27.567 --> 00:02:36.267
+Le compte reçoit le prénom, le nom et l'adresse envoyés par le fournisseur, puis la connexion continue comme d'habitude, double authentification comprise.
+
+19
+00:02:36.567 --> 00:02:44.833
+Dans la limite de la licence. Et une adresse déjà connue de Resauvia, même d'un compte désactivé, ne reçoit jamais un second compte.
+
+20
+00:02:45.133 --> 00:02:53.733
+Pour envoyer le prénom, le nom et les groupes : chez Keycloak, la portée profile, et un mappeur Group Membership nommé groups.
+
+21
+00:02:54.033 --> 00:02:58.567
+Chez ADFS, les règles Given-Name, Surname et Group.
+
+22
+00:02:58.867 --> 00:03:03.233
+Chez LemonLDAP, exporter le prénom, le nom et les groupes.
+
+23
+00:03:04.933 --> 00:03:18.000
+Chez LemonLDAP, en OpenID Connect : signature des jetons RS256, et l'adresse mail exportée en email. En SAML : Resauvia déclaré par ses métadonnées, et mail exporté.
+
+24
+00:03:18.300 --> 00:03:28.667
+Chez Keycloak : Client authentication activé en OpenID Connect ; en SAML, le client importé des métadonnées de Resauvia, et Sign assertions activé.
+
+25
+00:03:28.967 --> 00:03:37.333
+Chez ADFS : une approbation de partie de confiance, créée depuis les métadonnées de Resauvia, avec la règle adresse de messagerie.

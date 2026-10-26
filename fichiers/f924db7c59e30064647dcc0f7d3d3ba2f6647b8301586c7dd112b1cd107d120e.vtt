@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.767
+Avec ce module, vos réservations et l'occupation des ressources arrivent dans Power BI, Excel, Tableau ou Qlik.
+
+2
+00:00:08.067 --> 00:00:12.500
+Le flux est en lecture seule, et ne contient jamais de nom de personne.
+
+3
+00:00:14.200 --> 00:00:20.633
+Pour l'administration : Administration, Connexions, Power BI, panneau Nouvel accès.
+
+4
+00:00:20.933 --> 00:00:27.867
+Le nom de l'accès : l'outil qui lira, par exemple Power BI de la DSI. Un accès par outil.
+
+5
+00:00:28.167 --> 00:00:37.500
+Créer l'accès : votre mot de passe peut vous être redemandé. Le jeton s'affiche : Copier le jeton, et gardez-le ; il ne sera plus affiché.
+
+6
+00:00:37.800 --> 00:00:45.267
+Révoquer : l'outil ne lit plus rien, tout de suite. Un accès révoqué ne se rétablit pas : créez-en un autre.
+
+7
+00:00:45.567 --> 00:00:54.233
+Chaque accès créé ou révoqué prévient l'équipe de sécurité par mail. Et la dernière lecture dit quand l'outil a lu les données pour la dernière fois.
+
+8
+00:00:55.933 --> 00:01:05.600
+Dans Power BI Desktop : Obtenir les données, Flux OData, et collez l'adresse du flux, avec Copier l'adresse sur la page Power BI de Resauvia.
+
+9
+00:01:05.900 --> 00:01:12.100
+Authentification De base : nom d'utilisateur resauvia, et le jeton comme mot de passe.
+
+10
+00:01:12.400 --> 00:01:20.200
+Cochez les tables, puis Charger. Publiez le rapport : Power BI actualise les données selon la planification choisie.
+
+11
+00:01:20.500 --> 00:01:25.567
+Pour le taux d'occupation d'une salle : les tables Occupations et Ressources.
+
+12
+00:01:25.867 --> 00:01:32.867
+Pour les réservations par service : Reservations et Services. Pour les sites et bâtiments : Lieux.
+
+13
+00:01:33.167 --> 00:01:40.667
+Dans Excel : Données, Obtenir des données, À partir d'un flux OData, même adresse, même jeton.
+
+14
+00:01:40.967 --> 00:01:48.967
+Un serveur dans votre réseau, pas joignable depuis Internet : votre service informatique installe la passerelle de données locale de Microsoft.
+
+15
+00:01:49.267 --> 00:01:58.833
+Et jamais de nom de personne ni l'objet des réservations : seulement leur numéro, leurs dates, leur état, leur catégorie, et le service du bénéficiaire.

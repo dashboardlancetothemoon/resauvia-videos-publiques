@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.133
+Avec ce module, vous annoncez un visiteur ; l'accueil le reçoit et note son départ.
+
+2
+00:00:06.433 --> 00:00:08.800
+Le registre se tient tout seul.
+
+3
+00:00:10.500 --> 00:00:15.667
+En réservant la salle, panneau Participants : Ajouter une personne extérieure.
+
+4
+00:00:15.967 --> 00:00:24.567
+Son prénom, son nom, son organisme, et son mail pour qu'il reçoive l'invitation. Déjà venu ? Tapez son nom : il est retrouvé.
+
+5
+00:00:24.867 --> 00:00:29.467
+Enregistrez. L'accueil l'attend, et vous recevez un mail dès son arrivée.
+
+6
+00:00:29.767 --> 00:00:36.767
+Pas de bouton Ajouter une personne extérieure ? Votre groupe n'a pas ce droit : demandez à l'accueil d'annoncer votre visiteur.
+
+7
+00:00:38.467 --> 00:00:44.900
+Pour l'accueil : menu Visiteurs. Trois colonnes : attendus, présents, repartis.
+
+8
+00:00:45.200 --> 00:00:51.633
+Le visiteur arrive : Arrivé, avec son numéro de badge si vous en donnez un. Son hôte est prévenu.
+
+9
+00:00:51.933 --> 00:00:56.200
+Il repart : Noter le départ, ou Badge rendu.
+
+10
+00:00:56.500 --> 00:01:04.367
+Sans rendez-vous ? Nouveau visiteur : son nom, la personne visitée, puis Arrivé, il est à l'accueil.
+
+11
+00:01:04.667 --> 00:01:12.333
+En retard ? Trente minutes après l'heure prévue, la carte affiche En retard : voyez avec l'hôte s'il faut encore l'attendre.
+
+12
+00:01:12.633 --> 00:01:16.900
+Pas venu ? Absent. Une visite annulée se range à part.
+
+13
+00:01:18.600 --> 00:01:29.600
+Visiteurs, Catégories : celles de votre organisation. Au départ : public, partenaire, prestataire, élu ou personnalité, agent d'un autre site.
+
+14
+00:01:29.900 --> 00:01:38.633
+Nouvelle catégorie : son nom, par exemple presse. Cochez Catégorie par défaut pour celle d'un visiteur ajouté à une réservation.
+
+15
+00:01:38.933 --> 00:01:45.300
+Rangez-les dans l'ordre de l'accueil ; Retirer une catégorie qui ne sert plus : ses visiteurs la gardent.
+
+16
+00:01:47.000 --> 00:01:55.933
+Une catégorie peut donner à ses visiteurs un accès temporaire : au départ, élu ou personnalité. Le visiteur doit avoir une adresse mail.
+
+17
+00:01:56.233 --> 00:02:04.900
+Dès qu'une visite est prévue pour lui, il reçoit par mail un lien vers ses rendez-vous : le jour, l'heure, le lieu, la salle, qui l'accueille.
+
+18
+00:02:05.200 --> 00:02:11.000
+À l'accueil, vous choisissez son dernier jour, jusqu'à un an ; le lien ne marche plus ensuite.
+
+19
+00:02:11.300 --> 00:02:18.067
+Peut aussi réserver : il reçoit en plus un compte temporaire, qui se ferme tout seul le lendemain du dernier jour.
+
+20
+00:02:18.367 --> 00:02:25.100
+Sur la fiche de sa visite, panneau Accès temporaire : Renvoyer l'accès, ou Retirer l'accès.
+
+21
+00:02:25.400 --> 00:02:34.167
+L'administration ouvre cet accès dans Visiteurs, Catégories, sur la catégorie : Accès temporaire, et le groupe des comptes pour réserver.
+
+22
+00:02:35.867 --> 00:02:44.067
+Pour retrouver une visite : Visiteurs, Registre. Cherchez par nom, société ou badge, et filtrez par période.
+
+23
+00:02:44.367 --> 00:02:46.900
+Exporter, pour un tableur.
+
+24
+00:02:47.200 --> 00:02:51.800
+Le registre s'efface tout seul après la durée réglée par votre organisation.

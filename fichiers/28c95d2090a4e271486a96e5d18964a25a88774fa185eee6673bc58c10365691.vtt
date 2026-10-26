@@ -1,0 +1,161 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:03.833
+Dans chaque salle, un QR code est collé au mur.
+
+2
+00:00:04.133 --> 00:00:06.667
+Un téléphone suffit pour le scanner.
+
+3
+00:00:06.967 --> 00:00:12.933
+La page de la salle s'ouvre : vous voyez son matériel, vous signalez une panne, vous la réservez.
+
+4
+00:00:13.233 --> 00:00:15.667
+Sans chercher la salle dans le logiciel.
+
+5
+00:00:17.367 --> 00:00:20.367
+Vous scannez le QR code avec votre téléphone.
+
+6
+00:00:20.667 --> 00:00:23.900
+En haut de la page : la salle en ce moment.
+
+7
+00:00:24.200 --> 00:00:30.000
+Libre, et jusqu'à quand. Ou occupée, en rouge, avec le temps restant.
+
+8
+00:00:30.300 --> 00:00:35.533
+La page ne montre jamais l'objet d'une réservation, ni le nom de la personne qui l'a faite.
+
+9
+00:00:35.833 --> 00:00:38.833
+Juste en dessous : un souci dans cette salle ?
+
+10
+00:00:39.133 --> 00:00:47.867
+Le matériel de la salle est là, avec son état. Vous touchez l'équipement concerné, vous dites combien et ce qui ne va pas, puis vous signalez le problème.
+
+11
+00:00:48.167 --> 00:00:52.067
+Pas besoin de compte pour cela. La gestion de la salle est prévenue.
+
+12
+00:00:52.367 --> 00:00:55.100
+Tout en bas : réserver cette salle.
+
+13
+00:00:55.400 --> 00:00:59.767
+Vous vous connectez, et vous réservez à votre nom, selon vos droits.
+
+14
+00:01:01.467 --> 00:01:06.000
+Avec l'application Resauvia ouverte, le même QR code va plus loin.
+
+15
+00:01:06.300 --> 00:01:10.500
+Réserver cette salle mène à une page faite pour réserver sur place.
+
+16
+00:01:10.800 --> 00:01:15.400
+En ce moment : la salle, libre ou occupée, et sa journée.
+
+17
+00:01:15.700 --> 00:01:23.100
+Puis : réserver tout de suite, pour quinze minutes, trente, quarante-cinq, ou une heure. D'un seul toucher.
+
+18
+00:01:23.400 --> 00:01:28.400
+La réservation est à votre nom, avec les mêmes règles qu'une réservation faite au bureau.
+
+19
+00:01:28.700 --> 00:01:36.567
+En dessous, libres à côté : les autres salles libres du même site, celles du même étage d'abord, réservables de la même façon.
+
+20
+00:01:36.867 --> 00:01:42.833
+Pour une autre heure ou un autre jour : autre créneau. Le formulaire de la salle s'ouvre.
+
+21
+00:01:43.133 --> 00:01:49.400
+Sans l'application, dans un simple navigateur, réserver cette salle ouvre directement ce formulaire.
+
+22
+00:01:51.100 --> 00:01:54.200
+Ce chapitre s'adresse à la gestion de la salle.
+
+23
+00:01:54.500 --> 00:01:58.867
+Une panne signalée par le QR code ne met rien hors service toute seule.
+
+24
+00:01:59.167 --> 00:02:04.233
+Elle arrive dans À traiter, sous : problèmes signalés par le QR code d'une salle.
+
+25
+00:02:04.533 --> 00:02:10.833
+Confirmer la panne : l'équipement passe hors service. Et la salle aussi, s'il lui est indispensable.
+
+26
+00:02:11.133 --> 00:02:16.667
+Pas de panne : rien ne change, et les personnes prévenues reçoivent un message de fausse alerte.
+
+27
+00:02:18.367 --> 00:02:21.867
+Ce chapitre s'adresse au service chargé de la salle.
+
+28
+00:02:22.167 --> 00:02:27.633
+Une réservation qui change la disposition de la salle demande une mise en place, avant elle.
+
+29
+00:02:27.933 --> 00:02:32.933
+Et après une réservation qui a eu une mise en place, la salle est à remettre en état.
+
+30
+00:02:33.233 --> 00:02:41.967
+Le service chargé, c'est le groupe responsable de la disposition ; à défaut, la gestion de la salle. Il voit ces interventions dans Mon planning.
+
+31
+00:02:42.267 --> 00:02:48.467
+Sur place, l'agent, connecté à Resauvia sur son téléphone, scanne le QR code de la salle.
+
+32
+00:02:48.767 --> 00:02:54.433
+En haut de la page : vos interventions. Celles de son service, pour les heures qui viennent.
+
+33
+00:02:54.733 --> 00:03:01.800
+Il touche : c'est fait. C'est noté pour tout le service ; la fiche de la réservation le montre, et le journal dit qui.
+
+34
+00:03:02.100 --> 00:03:07.333
+Seul le service chargé voit ses interventions. Les autres voient la page habituelle.
+
+35
+00:03:07.633 --> 00:03:11.900
+La remise en état se déclare à la fin de la réservation, pas avant.
+
+36
+00:03:12.200 --> 00:03:19.133
+Une intervention qui n'est pas déclarée à l'heure prévient la gestion de la salle et le service, par un mail, une seule fois.
+
+37
+00:03:20.833 --> 00:03:23.533
+Reste à poser le QR code dans la salle.
+
+38
+00:03:23.833 --> 00:03:30.167
+Dans Réglages, Salles et bureaux, ouvrez la salle, onglet Matériel et carnet de bord.
+
+39
+00:03:30.467 --> 00:03:36.267
+Dans le panneau QR code de la salle : créer le QR code, puis imprimer le QR code.
+
+40
+00:03:36.567 --> 00:03:38.767
+Affichez la feuille dans la salle.

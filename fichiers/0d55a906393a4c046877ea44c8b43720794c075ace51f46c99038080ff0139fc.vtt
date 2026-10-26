@@ -1,0 +1,117 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:10.867
+Avec ce module, les membres d'une association, d'un comité ou d'une entreprise partenaire réservent et paient leurs places de navette, sur une page à eux, sans compte.
+
+2
+00:00:11.167 --> 00:00:17.133
+Le service des navettes ouvre la page et importe les membres ; l'administration règle le paiement.
+
+3
+00:00:18.833 --> 00:00:23.533
+Sur la page de sa structure, le membre donne son adresse mail et son nom.
+
+4
+00:00:23.833 --> 00:00:31.467
+Recevoir mon lien : s'il est dans la liste, il reçoit un lien, valable deux heures. La page répond pareil dans tous les cas.
+
+5
+00:00:31.767 --> 00:00:36.667
+Avec ce lien, il choisit la ligne, le jour, et le nombre de places.
+
+6
+00:00:36.967 --> 00:00:42.300
+Puis le départ : les places libres sont écrites. Et le retour, s'il le veut.
+
+7
+00:00:42.600 --> 00:00:47.433
+Payer par carte : les places sont tenues pendant le paiement, trente minutes.
+
+8
+00:00:47.733 --> 00:00:54.800
+Paiement reçu : un mail de confirmation, avec le lien Ma réservation. Et un rappel la veille du départ.
+
+9
+00:00:55.100 --> 00:01:04.833
+Pour annuler : Ma réservation, Annuler ma réservation. Remboursé jusqu'au délai de la structure ; ensuite, la place est rendue sans remboursement.
+
+10
+00:01:06.533 --> 00:01:11.933
+Pour le service des navettes : Traiter, Navette des membres, Nouvelle structure.
+
+11
+00:01:12.233 --> 00:01:16.767
+Le nom, et l'adresse de sa page : c'est l'adresse à donner aux membres.
+
+12
+00:01:17.067 --> 00:01:25.733
+Le bilan mensuel, si vous voulez : une adresse de la structure, qui reçoit le premier du mois les réservations, les places et les montants du mois passé.
+
+13
+00:01:26.033 --> 00:01:34.567
+Le prix d'une place, par trajet : un aller-retour compte deux trajets. Et le remboursement, jusqu'à tant d'heures avant le départ.
+
+14
+00:01:34.867 --> 00:01:39.467
+Les lignes ouvertes aux membres : aucune cochée, ce sont toutes les lignes.
+
+15
+00:01:39.767 --> 00:01:41.967
+Puis Créer la structure.
+
+16
+00:01:43.667 --> 00:01:53.400
+Sur la fiche de la structure, panneau Membres : collez la liste depuis Excel, avec les colonnes nom, prénom et adresse mail ; ou choisissez un fichier CSV.
+
+17
+00:01:53.700 --> 00:01:59.833
+Vérifier : ce qui sera ajouté, modifié ou retiré. Rien n'est écrit.
+
+18
+00:02:00.133 --> 00:02:05.933
+Importer : la nouvelle liste remplace l'ancienne. Les réservations déjà faites restent.
+
+19
+00:02:07.633 --> 00:02:13.967
+Navette des membres, Réservations des membres : toutes les réservations, avec la recherche et l'export.
+
+20
+00:02:14.267 --> 00:02:22.067
+Une navette supprimée ? Sur la réservation, Annuler et rembourser : toujours remboursée en entier, et le membre est prévenu.
+
+21
+00:02:22.367 --> 00:02:28.400
+Les passagers d'un départ sont aussi dans Traiter, Passagers ; l'annuler là le rembourse aussi.
+
+22
+00:02:28.700 --> 00:02:36.367
+Un paiement abandonné : les places reviennent d'elles-mêmes. Et une structure qui a des réservations ne se supprime pas : elle se ferme.
+
+23
+00:02:38.067 --> 00:02:42.733
+L'argent va sur le compte Stripe de la structure ; Resauvia n'en garde rien.
+
+24
+00:02:43.033 --> 00:02:49.800
+L'administration règle chaque structure dans Administration, Connexions, Paiement en ligne, Stripe.
+
+25
+00:02:50.100 --> 00:02:56.600
+Dans le compte Stripe de la structure, ajoutez une destination de webhook, avec l'adresse de notification montrée.
+
+26
+00:02:56.900 --> 00:03:01.333
+Collez la clé secrète, et le secret de signature de cette destination.
+
+27
+00:03:01.633 --> 00:03:07.033
+Enregistrer le paiement : votre mot de passe est redemandé, et l'état passe à Prêt.
+
+28
+00:03:07.333 --> 00:03:12.800
+Puis Tester la clé : Stripe dit s'il l'accepte, en mode test ou réel.
+
+29
+00:03:13.100 --> 00:03:19.133
+Chaque réglage est noté, et les administrateurs reçoivent une alerte de sécurité à chaque changement.

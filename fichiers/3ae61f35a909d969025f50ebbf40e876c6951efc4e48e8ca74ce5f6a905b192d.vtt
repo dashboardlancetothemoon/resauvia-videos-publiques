@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.333
+Avec ce module, le logiciel porte votre nom, vos couleurs et votre logo, à la place de ceux de Resauvia.
+
+2
+00:00:07.633 --> 00:00:10.567
+Il est réglé par Auxentis, pour vous.
+
+3
+00:00:12.267 --> 00:00:20.133
+En haut du menu et sur la page de connexion : votre logo, sinon votre nom, avec en petit, avec Resauvia.
+
+4
+00:00:20.433 --> 00:00:24.467
+La page active du menu prend un trait de votre couleur secondaire.
+
+5
+00:00:24.767 --> 00:00:31.833
+Les boutons, les liens et la sélection prennent votre couleur principale. L'onglet du navigateur porte votre nom.
+
+6
+00:00:32.133 --> 00:00:36.267
+Les mails ont votre logo en tête, et des boutons de votre couleur.
+
+7
+00:00:36.567 --> 00:00:39.867
+Et votre nom dans la signature, avec Resauvia.
+
+8
+00:00:40.167 --> 00:00:48.400
+L'application mobile prend aussi vos couleurs, votre nom et votre logo ; les PDF et l'application d'authentification, votre nom.
+
+9
+00:00:48.700 --> 00:01:00.100
+Les couleurs d'état ne changent pas : réussi reste vert, erreur reste rouge. Et restent Resauvia : l'application dans les stores, les guides, et les pages qui décrivent le logiciel.
+
+10
+00:01:01.800 --> 00:01:07.267
+Auxentis la règle pour vous. Envoyez-nous le nom à afficher, soixante caractères au plus.
+
+11
+00:01:07.567 --> 00:01:13.833
+Votre couleur principale et votre couleur secondaire, en code hexadécimal, comme sur votre charte graphique.
+
+12
+00:01:14.133 --> 00:01:20.333
+Et votre logo, en SVG de préférence, sinon PNG ou JPEG, sur fond transparent.
+
+13
+00:01:20.633 --> 00:01:30.600
+Vos couleurs sont ajustées pour rester lisibles, en thème clair comme en thème sombre : une couleur trop pâle est un peu assombrie, une couleur trop foncée un peu éclaircie.
+
+14
+00:01:30.900 --> 00:01:39.433
+Le logo ne se change pas dans le logiciel : demandez-le à Auxentis. Et chaque réglage est noté dans Administration, Journal des actions.

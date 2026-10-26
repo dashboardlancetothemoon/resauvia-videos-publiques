@@ -1,0 +1,161 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.000
+Avec ce module, vous entrez dans Resauvia avec votre compte Microsoft, et vos réservations se retrouvent dans votre agenda Outlook.
+
+2
+00:00:08.300 --> 00:00:15.633
+L'administration peut aussi créer les comptes depuis Entra ID, et ouvrir la réservation d'une salle depuis Outlook.
+
+3
+00:00:17.333 --> 00:00:24.633
+Sur la page de connexion, cliquez sur Se connecter avec Microsoft, et entrez comme sur votre messagerie professionnelle.
+
+4
+00:00:24.933 --> 00:00:31.967
+Votre compte doit déjà exister dans Resauvia, avec la même adresse mail ; sinon, demandez à votre administrateur.
+
+5
+00:00:32.267 --> 00:00:36.367
+Et votre mot de passe se change chez Microsoft, pas dans Resauvia.
+
+6
+00:00:38.067 --> 00:00:45.000
+Si votre organisation l'a ouvert, créez la réunion dans Outlook et invitez la salle, avec Ajouter une salle.
+
+7
+00:00:45.300 --> 00:00:51.333
+Envoyez : dans les minutes qui suivent, la salle répond que la réservation est confirmée dans Resauvia.
+
+8
+00:00:51.633 --> 00:00:57.100
+Salle prise, ou droit manquant : la salle décline, et un mail explique pourquoi.
+
+9
+00:00:57.400 --> 00:01:05.133
+Réunion déplacée ou annulée dans Outlook : la réservation suit. L'heure et la salle se changent dans Outlook seulement.
+
+10
+00:01:05.433 --> 00:01:12.967
+Pour une ressource sans boîte aux lettres : la catégorie Resauvia sur la réunion, et son nom ou son numéro dans Lieu.
+
+11
+00:01:13.267 --> 00:01:19.700
+Une réunion répétée de la catégorie Resauvia est refusée : utilisez Répéter dans Resauvia.
+
+12
+00:01:21.400 --> 00:01:32.500
+Pour l'administration : le service informatique inscrit l'application dans Entra ID. La marche à suivre est dans le panneau Dans Entra ID, avec l'adresse de retour à copier.
+
+13
+00:01:32.800 --> 00:01:42.767
+Dans Administration, Connexions, Connexion avec Microsoft, panneau Réglages : l'identifiant de l'annuaire, celui de l'application, et le secret.
+
+14
+00:01:43.067 --> 00:01:51.500
+Cochez Proposer Se connecter avec Microsoft, puis Enregistrer. Déconnectez-vous : le bouton est sur la page de connexion.
+
+15
+00:01:51.800 --> 00:02:00.633
+Le secret a une date de fin : notez-la. Avant, créez un nouveau secret dans Entra ID et collez-le ici, sinon la connexion s'arrête.
+
+16
+00:02:02.333 --> 00:02:07.333
+Même page : cochez Créer et tenir à jour les comptes depuis l'annuaire.
+
+17
+00:02:07.633 --> 00:02:13.900
+Le groupe de l'annuaire : seuls ses membres reçoivent un compte. Vide, c'est tout l'annuaire.
+
+18
+00:02:14.200 --> 00:02:22.500
+Choisissez les groupes donnés aux nouveaux comptes : jamais un groupe qui administre. Et les services qui manquent sont créés, case cochée d'office.
+
+19
+00:02:22.800 --> 00:02:28.767
+Aperçu : ce qui sera créé, mis à jour, désactivé. Rien n'est écrit.
+
+20
+00:02:29.067 --> 00:02:35.333
+Enregistrer. La synchronisation passe chaque jour, ou tout de suite avec Synchroniser maintenant.
+
+21
+00:02:35.633 --> 00:02:40.500
+Panneau Groupes de l'annuaire : cherchez un groupe, puis cliquez sur Suivre.
+
+22
+00:02:40.800 --> 00:02:50.167
+Choisissez son groupe dans Resauvia : un groupe du même nom, créé sans aucun droit, ou un groupe qui existe déjà. Puis Enregistrer les groupes suivis.
+
+23
+00:02:50.467 --> 00:02:58.833
+À chaque passage, les membres du groupe le reçoivent, et le perdent s'ils le quittent. Les droits se donnent dans Administration, Groupes.
+
+24
+00:02:59.133 --> 00:03:08.200
+Nom, prénom, téléphone, service et N+1 suivent l'annuaire. Un compte qui administre n'est jamais rattaché seul, ni désactivé.
+
+25
+00:03:08.500 --> 00:03:16.467
+Au-delà de dix pour cent de départs d'un coup, personne n'est désactivé. Et un compte désactivé à la main n'est jamais réactivé seul.
+
+26
+00:03:18.167 --> 00:03:25.567
+Pour copier les réservations dans Outlook, le service informatique donne à l'application l'autorisation Calendars ReadWrite.
+
+27
+00:03:25.867 --> 00:03:35.000
+Puis Administration, Connexions, Agendas Outlook : cochez Copier les réservations dans les agendas Outlook, et Enregistrer.
+
+28
+00:03:35.300 --> 00:03:40.467
+Tester avec mon agenda : Resauvia lit votre agenda, sans rien écrire.
+
+29
+00:03:40.767 --> 00:03:49.833
+Chaque réservation confirmée ou en option apparaît alors dans l'agenda Outlook du bénéficiaire, et suit ses changements. Une confidentielle y est privée.
+
+30
+00:03:51.533 --> 00:03:58.933
+Pour une salle qui a sa boîte aux lettres dans Exchange : Réglages, Salles et bureaux, la salle, onglet Général.
+
+31
+00:03:59.233 --> 00:04:05.200
+Champ Boîte aux lettres Outlook : l'adresse de la boîte de la salle. Puis Enregistrer.
+
+32
+00:04:05.500 --> 00:04:10.500
+La salle est alors invitée à chaque réunion, et ses réservations sont dans son agenda.
+
+33
+00:04:12.200 --> 00:04:19.300
+La reprise des réunions créées dans Outlook est coupée d'office ; elle s'ouvre dans le panneau Réunions créées dans Outlook.
+
+34
+00:04:19.600 --> 00:04:29.400
+Les réunions qui invitent une salle : l'agenda de chaque salle à boîte est lu, et la réunion est réservée au nom de son organisateur, avec tous les contrôles de Resauvia.
+
+35
+00:04:29.700 --> 00:04:37.000
+Les réunions de la catégorie Resauvia : l'agenda des agents est lu, et la ressource écrite dans Lieu est réservée.
+
+36
+00:04:37.300 --> 00:04:46.467
+Avant d'ouvrir : les réunions déjà dans l'agenda des salles sont reprises, et celles qui ne passent pas les contrôles sont déclinées. Ouvrez quand les deux côtés concordent.
+
+37
+00:04:46.767 --> 00:04:52.967
+Et réglez les salles pour qu'elles n'acceptent plus d'elles-mêmes les demandes de réunion : Resauvia répond pour elles.
+
+38
+00:04:54.667 --> 00:05:04.700
+Le panneau Copie des réservations montre le dernier passage, les réservations copiées, celles en échec avec la raison, et les réunions d'Outlook réservées ou refusées.
+
+39
+00:05:05.000 --> 00:05:13.200
+Sans boîte Outlook : le bénéficiaire n'a pas de boîte Microsoft 365. Ce n'est pas une panne : rien n'est copié pour lui.
+
+40
+00:05:13.500 --> 00:05:23.567
+Une réservation en échec est reprise cinq fois, puis à sa prochaine modification. Et une panne de la connexion prévient les administrateurs par mail, puis son retour.

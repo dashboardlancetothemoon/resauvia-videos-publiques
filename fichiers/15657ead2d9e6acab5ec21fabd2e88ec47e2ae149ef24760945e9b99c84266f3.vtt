@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.600
+Avec ce module, vous donnez un prix aux prestations et à la location des ressources, vous facturez les retards, et chaque client paie au bon tarif.
+
+2
+00:00:09.900 --> 00:00:13.467
+Tout se règle dans Réglages, Tarifs et grilles.
+
+3
+00:00:15.167 --> 00:00:22.800
+Le tarif d'une réservation s'applique tout seul, dans cet ordre : d'abord, le client extérieur choisi sur la réservation.
+
+4
+00:00:23.100 --> 00:00:28.567
+Sinon, le tarif du service du bénéficiaire ; sinon, le tarif par défaut.
+
+5
+00:00:28.867 --> 00:00:40.567
+La gestion des ressources et les gestionnaires des tarifs voient Client et Tarif dans le formulaire : choisir un autre tarif, c'est un geste commercial. Les autres lisent seulement le tarif appliqué.
+
+6
+00:00:40.867 --> 00:00:47.533
+Les clients se créent dans Réglages, Clients ; le tarif d'un service, dans Administration, Services.
+
+7
+00:00:47.833 --> 00:00:57.067
+Un tarif coché Gratuit ne fait payer ni prestations, ni location, ni dépassement. Et un client sans réservation depuis trente-six mois est effacé.
+
+8
+00:00:58.767 --> 00:01:09.367
+Les prêts gratuits : ce qu'auraient coûté les réservations au tarif gratuit, au tarif par défaut, location et prestations. Utile pour l'annexe des aides en nature aux associations.
+
+9
+00:01:09.667 --> 00:01:18.500
+Dans Piloter, Prêts gratuits : choisissez la période, du, au, puis Voir. Par défaut, l'année en cours.
+
+10
+00:01:18.800 --> 00:01:24.033
+Cliquez sur une association ou un service : le détail de ses réservations s'affiche.
+
+11
+00:01:24.333 --> 00:01:30.833
+Récapitulatif, en PDF, pour l'association ; Exporter, en tableur, pour tout.
+
+12
+00:01:31.133 --> 00:01:40.200
+Une ressource sans prix dans la grille compte zéro euro, et elle est signalée. Un particulier n'est jamais nommé : il est compté dans Particuliers.
+
+13
+00:01:41.900 --> 00:01:51.967
+Dans Réglages, Tarifs et grilles, cliquez sur Nouveau tarif : par exemple, Tarif associations. Cochez Tarif proposé par défaut pour le plus courant.
+
+14
+00:01:52.267 --> 00:02:00.133
+Sous le tarif, Nouvelle grille de tarifs : un nom, par exemple Tarifs 2027, et ses dates de validité.
+
+15
+00:02:00.433 --> 00:02:08.867
+Tapez le prix hors taxes et la TVA de chaque prestation : un prix vide, c'est gratuit avec ce tarif. Puis Enregistrer la liste.
+
+16
+00:02:09.167 --> 00:02:18.167
+Au changement d'année, préparez la grille suivante à l'avance, et fermez celle en cours au trente et un décembre : deux grilles d'un même tarif ne se chevauchent pas.
+
+17
+00:02:19.867 --> 00:02:26.600
+Pour faire payer la location d'une ressource : ouvrez une grille enregistrée, panneau Location des ressources.
+
+18
+00:02:26.900 --> 00:02:33.500
+Un prix de l'heure par catégorie de ressources : la réservation coûte ce prix, multiplié par sa durée.
+
+19
+00:02:33.800 --> 00:02:38.500
+Une ressource à part, comme la salle des mariages : Ajouter une exception.
+
+20
+00:02:38.800 --> 00:02:44.500
+Enregistrer les prix de location : le formulaire de réservation affiche alors l'estimation.
+
+21
+00:02:46.200 --> 00:02:52.267
+Pour une réservation louée : le panneau Dépassements et prolongations, dans Tarifs et grilles.
+
+22
+00:02:52.567 --> 00:03:04.100
+L'alerte avant la fin, trente minutes d'office : un mail prévient le bénéficiaire et propose de prolonger. Et la majoration, cinquante pour cent : l'heure de retard coûte une fois et demie l'heure louée.
+
+23
+00:03:04.400 --> 00:03:12.767
+La tolérance, quinze minutes : ce retard n'est pas facturé. Et le pas, quinze minutes : tout quart d'heure entamé est dû.
+
+24
+00:03:13.067 --> 00:03:24.467
+Prolonger : par le lien du mail, ou sur la fiche, Actions, Prolonger. Par quart d'heure, si la ressource est libre, quatre heures au plus ; la gestion de la ressource est prévenue.
+
+25
+00:03:24.767 --> 00:03:31.367
+Le retour se note quand la ressource est rendue ; la gestion le corrige par Actions, Noter le retour.
+
+26
+00:03:31.667 --> 00:03:39.967
+Le dépassement s'affiche sur la fiche, part par mail au bénéficiaire, et s'exporte dans Toutes les réservations. Rien ne s'encaisse en ligne.
+
+27
+00:03:40.267 --> 00:03:46.600
+Et déplacer tard une réservation coûte comme une annulation tardive : le formulaire le dit avant l'envoi.

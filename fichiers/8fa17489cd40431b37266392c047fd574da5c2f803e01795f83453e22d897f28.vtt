@@ -1,0 +1,61 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.800
+Avec ce module, une réunion Teams ou Zoom est créée avec la réservation : le lien est sur la fiche, dans les mails et dans l'agenda.
+
+2
+00:00:09.100 --> 00:00:15.233
+Les participants reçoivent le lien par mail, et la réunion suit la réservation, jusqu'à son annulation.
+
+3
+00:00:16.933 --> 00:00:25.367
+Dans le formulaire, ou le volet de Réserver, cochez Réunion en visioconférence. Une salle équipée la coche d'office.
+
+4
+00:00:25.667 --> 00:00:31.500
+Si Teams et Zoom sont proposés tous les deux, choisissez le service. Puis enregistrez.
+
+5
+00:00:31.800 --> 00:00:42.367
+Quelques minutes après, la fiche propose Rejoindre la réunion. Le lien part par mail à vous, au bénéficiaire et aux participants : Prévenir les participants se coche d'office.
+
+6
+00:00:42.667 --> 00:00:52.067
+Une demande en attente de validation reçoit son lien une fois confirmée. Et annuler la réservation supprime la réunion ; les participants sont prévenus.
+
+7
+00:00:52.367 --> 00:00:58.700
+Pour renvoyer le lien : sur la fiche, panneau Visioconférence, Renvoyer le lien aux participants.
+
+8
+00:00:59.000 --> 00:01:04.567
+Cochez Renouveler le lien du mail, pour qu'une personne retirée des participants n'entre plus.
+
+9
+00:01:06.267 --> 00:01:17.033
+Pour l'administration : Administration, Connexions, Visioconférence, panneau Réglages. Cochez les services proposés : Teams, Zoom, ou les deux.
+
+10
+00:01:17.333 --> 00:01:27.833
+Pour Zoom, le service informatique crée une application Server-to-Server OAuth dans Zoom Marketplace, et vous donne l'Account ID, le Client ID et le Client Secret.
+
+11
+00:01:28.133 --> 00:01:34.100
+Indiquez aussi le compte Zoom de l'organisation : il accueille les réunions des personnes sans compte Zoom.
+
+12
+00:01:34.400 --> 00:01:43.633
+Cochez Proposer Réunion en visioconférence dans les réservations, puis Enregistrer. Et Tester Zoom vérifie l'application, sans rien créer.
+
+13
+00:01:43.933 --> 00:01:50.667
+Sur la fiche d'une salle, la case Équipée pour la visioconférence coche la visio d'office quand on la réserve.
+
+14
+00:01:52.367 --> 00:01:58.733
+Le panneau Réunions montre les réunions Teams et Zoom, celles en échec, et le dernier passage.
+
+15
+00:01:59.033 --> 00:02:07.800
+Les réunions Zoom sont créées, modifiées ou supprimées toutes les deux minutes. Et une réservation confidentielle garde un objet neutre chez Zoom.

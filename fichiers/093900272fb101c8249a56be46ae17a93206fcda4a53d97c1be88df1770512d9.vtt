@@ -1,0 +1,93 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.700
+Avec ce module, vous chiffrez une réservation pour un client ou un service, vous l'envoyez, et vous notez sa réponse.
+
+2
+00:00:08.000 --> 00:00:13.867
+Le devis n'est jamais une facture : la collectivité facture ensuite par son logiciel financier.
+
+3
+00:00:15.567 --> 00:00:21.600
+Les devis se font par la gestion des coûts et la gestion des ressources réservées. Ouvrez la réservation.
+
+4
+00:00:21.900 --> 00:00:31.000
+Panneau Devis, Faire un devis : le brouillon s'ouvre, avec la location et les prestations reprises des tarifs. Une série compte toutes ses dates.
+
+5
+00:00:31.300 --> 00:00:38.033
+Pour un client extérieur, une association ou une entreprise : la réservation, avec son client choisi.
+
+6
+00:00:38.333 --> 00:00:43.633
+Pour un service de la collectivité : la réservation faite pour une personne de ce service.
+
+7
+00:00:45.333 --> 00:00:52.833
+Pour qui : le destinataire, son adresse mail, pour l'envoyer depuis Resauvia, l'objet et la validité.
+
+8
+00:00:53.133 --> 00:01:04.300
+Les lignes reprises des tarifs ne se modifient pas ici : changez la grille de tarifs, puis Reprendre les tarifs. La réservation a changé ? Reprendre les tarifs recalcule les lignes.
+
+9
+00:01:04.600 --> 00:01:13.833
+Lignes ajoutées, Ajouter une ligne : une prestation hors catalogue, comme un nettoyage, sa quantité, son prix hors taxes et sa TVA.
+
+10
+00:01:14.133 --> 00:01:22.567
+La remise, en pourcentage ou en euros TTC. Et si vous voulez, des conditions : acompte, caution, horaires d'accès.
+
+11
+00:01:22.867 --> 00:01:26.567
+Enregistrer le devis : les totaux suivent la saisie.
+
+12
+00:01:28.267 --> 00:01:32.667
+Télécharger le PDF, à tout moment, pour le relire ou l'imprimer.
+
+13
+00:01:32.967 --> 00:01:39.533
+Envoyer au client : un mail part à son adresse, le PDF joint. Le devis ne se modifie plus.
+
+14
+00:01:39.833 --> 00:01:45.233
+Envoyé vous-même, par votre messagerie ou sur papier ? Noter comme envoyé.
+
+15
+00:01:45.533 --> 00:01:51.667
+Une erreur après l'envoi : Refaire un devis prépare une copie en brouillon, avec un nouveau numéro.
+
+16
+00:01:53.367 --> 00:02:02.100
+Le client renvoie le devis signé, Bon pour accord : Accepté par le client. Si la réservation est une option, elle devient confirmée.
+
+17
+00:02:02.400 --> 00:02:08.300
+Il refuse : Refusé. La réservation reste ; annulez-la si elle n'a plus lieu d'être.
+
+18
+00:02:08.600 --> 00:02:16.400
+Sans réponse à la date de validité, le devis passe Expiré, et vous recevez un mail. Une réponse tardive se note encore.
+
+19
+00:02:18.100 --> 00:02:27.100
+Piloter, Devis : la recherche par numéro, objet ou client, les filtres par état et par période, et l'export en tableur.
+
+20
+00:02:27.400 --> 00:02:32.067
+L'adresse et le SIRET en tête des devis : Réglages, Devis.
+
+21
+00:02:32.367 --> 00:02:38.167
+Les mentions en bas, pour le paiement ou la régie : Réglages, Devis, Mentions.
+
+22
+00:02:38.467 --> 00:02:44.600
+La durée de validité, trente jours d'office : Réglages, Devis, ou chaque devis.
+
+23
+00:02:44.900 --> 00:02:48.833
+Et pour changer un prix : Réglages, Tarifs et grilles.
