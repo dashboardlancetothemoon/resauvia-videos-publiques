@@ -1,0 +1,133 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.033
+Le formulaire de réservation est le même pour toutes les ressources : réserver, répéter, inviter, modifier, annuler.
+
+2
+00:00:10.733 --> 00:00:18.967
+On arrive au formulaire par le menu Réserver, par un créneau libre du planning, ou par Plus d'options du volet de réservation.
+
+3
+00:00:19.267 --> 00:00:24.733
+Quand : le début et la fin. Sous les dates, attendez Créneau libre.
+
+4
+00:00:25.033 --> 00:00:34.667
+Donnez un titre, par exemple : réunion d'équipe. Pour : vous, d'office ; tapez le nom d'un collègue pour réserver pour lui, selon vos droits.
+
+5
+00:00:34.967 --> 00:00:41.800
+Le récapitulatif, Votre réservation, dit si elle sera confirmée tout de suite, ou sur validation.
+
+6
+00:00:42.100 --> 00:00:49.200
+En bas, cliquez sur Réserver, ou Envoyer la demande. La fiche s'ouvre, et un mail vous le confirme.
+
+7
+00:00:49.500 --> 00:00:57.933
+Créneau pris ? L'indicateur le dit en rouge, avec la réservation qui gêne : changez l'horaire ou la ressource. Votre saisie est gardée.
+
+8
+00:00:59.633 --> 00:01:10.867
+Certaines ressources demandent quelques informations en plus, comme le nombre d'enfants : répondez dans le panneau Informations demandées. Sans la mention facultatif, la réponse est obligatoire.
+
+9
+00:01:12.567 --> 00:01:25.567
+Confirmée : la ressource est à vous. En attente de validation : le gestionnaire reçoit la demande, et le créneau reste bloqué ; un mail vous prévient de sa décision. Refusée : le mail donne la raison.
+
+10
+00:01:25.867 --> 00:01:32.133
+Le numéro de la réservation est dans les mails, sur la fiche et au planning : citez-le à un gestionnaire.
+
+11
+00:01:33.833 --> 00:01:45.467
+Certaines salles ou certains véhicules demandent de confirmer votre présence quelques heures avant le début. Un mail vous le demande : ouvrez le lien, la fiche s'ouvre, et cliquez sur Je confirme.
+
+12
+00:01:45.767 --> 00:01:54.933
+Sans confirmation au début, la réservation est libérée, et d'autres peuvent réserver. Réservée peu avant le début ? Réserver vaut confirmation.
+
+13
+00:01:55.233 --> 00:01:59.333
+Elle n'a plus lieu ? Annulez-la, plutôt que de la laisser se libérer.
+
+14
+00:02:01.033 --> 00:02:13.933
+Si le bénéficiaire est noté absent sur le créneau, son supérieur doit approuver. L'administrateur peut aussi le demander pour le télétravail, la formation ou le déplacement. Le formulaire l'annonce avant l'envoi.
+
+15
+00:02:14.233 --> 00:02:24.133
+La demande attend dans l'À traiter du supérieur, et vous êtes prévenu de sa décision. Sur la fiche : Relancer, une fois par jour, ou Programmer un rappel.
+
+16
+00:02:24.433 --> 00:02:28.967
+Quand le supérieur réserve lui-même pour vous, rien n'est à approuver.
+
+17
+00:02:30.667 --> 00:02:48.700
+Pour répéter une réservation, cochez Répéter cette réservation, dans le panneau Quand. Choisissez le rythme, par exemple toutes les semaines, les jours, ou le dernier jeudi du mois, puis la fin : une date, ou un nombre de fois. Ou choisissez les dates dans un calendrier.
+
+18
+00:02:49.000 --> 00:02:59.500
+Vérifiez la frise : les dates prises sont barrées et écartées ; cliquez sur une date pour l'écarter vous-même. Puis Réserver les dates : un seul mail pour toute la série.
+
+19
+00:02:59.800 --> 00:03:13.833
+Sauf les jours fériés est cochée d'office. Sauf pendant les vacances scolaires les écarte, si votre organisation les suit. Et les règles d'une ressource, comme au plus trente jours à l'avance, écartent les dates de trop, en disant pourquoi.
+
+20
+00:03:14.133 --> 00:03:26.333
+Un mois avant la dernière date d'une série d'au moins quatre dates, un mail propose de la reprendre l'an prochain. Ouvrez son lien, ou, sur la fiche d'une date, panneau Série : Reconduire l'an prochain.
+
+21
+00:03:26.633 --> 00:03:36.600
+Le formulaire est déjà rempli, un an plus tard : le lundi reste un lundi. Vérifiez la frise, puis Réserver les dates. Rien n'est réservé avant l'envoi.
+
+22
+00:03:38.300 --> 00:03:49.067
+Pour inviter des participants, panneau Participants : tapez le nom d'un collègue dans Agents invités, ou ajoutez une personne extérieure, avec son prénom, son nom et son mail.
+
+23
+00:03:49.367 --> 00:03:56.700
+Cochez Prévenir les participants par mail : ils sont prévenus si l'horaire change, et si vous annulez, sans le motif.
+
+24
+00:03:57.000 --> 00:04:05.033
+Pour une réunion confidentielle, cochez Privée, dans Détails : les autres ne voient qu'un créneau occupé, sans titre ni nom.
+
+25
+00:04:06.733 --> 00:04:15.700
+Vos réservations sont dans Suivre, Mes réservations : à venir, passées, annulées. Cherchez par titre, numéro ou ressource.
+
+26
+00:04:16.000 --> 00:04:25.233
+Sur la fiche : Modifier, puis Enregistrer les modifications. Changer la date d'une réservation déjà validée peut la renvoyer en validation.
+
+27
+00:04:25.533 --> 00:04:38.700
+Le menu Actions permet de Dupliquer, le même formulaire à une autre date, ou d'Annuler la réservation : un motif facultatif, puis confirmer. Pour une série : cette date, ou les suivantes.
+
+28
+00:04:39.000 --> 00:04:48.867
+Annulation tardive : selon les règles de la ressource, elle peut être interdite en ligne, et la fenêtre le dit avant. Déplacer tard compte comme annuler tard.
+
+29
+00:04:50.567 --> 00:05:03.500
+Sur la fiche d'une réservation, le panneau Réserver aussi pour ce créneau propose plus Véhicule, ou plus Salle ou bureau ; après un véhicule vers un autre site, un bureau sur place.
+
+30
+00:05:03.800 --> 00:05:11.333
+Cliquez : la recherche s'ouvre au même créneau. Réservez comme d'habitude : les deux fiches montrent Réservé ensemble.
+
+31
+00:05:11.633 --> 00:05:21.700
+Chacune garde ses règles, sa validation et ses mails. Annuler l'une propose d'annuler les autres. Et Ne plus lier garde la réservation, sans le lien.
+
+32
+00:05:23.400 --> 00:05:31.267
+Certaines salles se réservent à la nuitée, pour un hébergement : choisissez À la nuitée, la date d'arrivée et le nombre de nuits.
+
+33
+00:05:31.567 --> 00:05:42.800
+Une salle segmentée découpe une réservation sur plusieurs jours : du lundi neuf heures au mercredi midi, cela fait trois créneaux de neuf heures à midi. Décochez les jours inutiles.
