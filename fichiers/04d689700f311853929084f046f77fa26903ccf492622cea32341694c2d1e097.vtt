@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.833
+Ce guide reprend les personnes, les ressources et les réservations à venir d'un ancien outil, dans le bon ordre. Il faut le droit Administrer l'organisation.
+
+2
+00:00:11.533 --> 00:00:22.600
+D'abord le fuseau horaire, puis les services et les groupes, que l'import reconnaît par leur nom. Ensuite les personnes : le bénéficiaire d'une réservation importée doit avoir un compte.
+
+3
+00:00:22.900 --> 00:00:33.700
+Puis les ressources, et complétez leurs fiches. Choisissez une date de bascule, importez les réservations à venir exportées ce jour-là, et comparez quelques plannings avec l'ancien outil.
+
+4
+00:00:34.000 --> 00:00:42.967
+Ne s'importent pas : les réservations passées, les répétitions, les participants, les photos, les règles d'annulation, ni les regroupements.
+
+5
+00:00:44.667 --> 00:00:50.067
+Dans Administration, Importer, le bon panneau : Télécharger le modèle.
+
+6
+00:00:50.367 --> 00:00:56.100
+Remplissez-le dans un tableur, copiez les cellules avec les en-têtes, et collez-les dans la zone.
+
+7
+00:00:56.400 --> 00:01:06.033
+Vérifier donne un bilan ligne par ligne : prête, ou la raison du refus. Rien n'est écrit. Corrigez, recollez, vérifiez de nouveau.
+
+8
+00:01:06.333 --> 00:01:15.033
+Puis Importer. Une ligne refusée n'arrête pas les autres ; ensuite, ne recollez que les lignes refusées. Trois mille lignes au plus.
+
+9
+00:01:16.733 --> 00:01:24.600
+Pour les ressources : le type, salle, bureau ou véhicule, un numéro unique, et le libellé sont obligatoires.
+
+10
+00:01:24.900 --> 00:01:37.733
+Au choix : la capacité, en nombre, le lieu et la catégorie, créés s'ils manquent, la validation et son groupe gestionnaire ; pour un véhicule, sa marque, son modèle et son immatriculation.
+
+11
+00:01:39.433 --> 00:01:56.033
+Pour les réservations : la ressource, par son numéro, le début et la fin, avec le jour avant le mois, et le libellé. Au choix : le bénéficiaire, par son adresse mail, le nombre de personnes, confidentielle ou non, et la destination d'un véhicule.
+
+12
+00:01:56.333 --> 00:02:02.367
+Les contrôles sont ceux d'une saisie. Personne n'est prévenu par mail, et l'historique note Import.
+
+13
+00:02:04.067 --> 00:02:13.633
+Pour les personnes : Administration, Personnes, Importer une liste. Une personne par ligne : prénom, nom, adresse mail, service.
+
+14
+00:02:13.933 --> 00:02:25.800
+Les groupes cochés sont donnés à toute la liste : une liste par profil. Puis Inviter ces personnes : les invitations partent, sans étape de vérification. Les adresses déjà inscrites sont ignorées.

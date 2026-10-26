@@ -1,0 +1,17 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.533
+Les connexions branchent Resauvia aux outils de votre organisation. Chacune se règle dans le guide de son module, et n'apparaît qu'avec lui.
+
+2
+00:00:10.233 --> 00:00:26.233
+Dans Administration, Connexions, chaque carte dit où en est sa connexion : non réglée, réglée mais pas encore essayée ou pas activée, en service, ou en erreur. Chaque activation se prépare avec votre service informatique et Auxentis.
+
+3
+00:00:27.933 --> 00:00:41.333
+Sur l'écran d'une connexion : où elle en est, qui l'a réglée et quand, le dernier essai et sa réponse ; jamais les secrets. L'historique garde ses derniers évènements, et Synchroniser maintenant lance un passage tout de suite.
+
+4
+00:00:41.633 --> 00:00:55.433
+Une panne prévient chaque administrateur par mail, puis son retour ; entre les deux, Resauvia réessaie seul. Régler une connexion redemande votre mot de passe, et un secret n'est jamais réaffiché : laissez le champ vide pour le garder.

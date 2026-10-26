@@ -1,0 +1,185 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.600
+Avec ce module, un QR code est collé dans chaque véhicule : on y signale son état et, pendant le trajet, qui prend le volant ou une dégradation.
+
+2
+00:00:09.900 --> 00:00:11.933
+On n'y réserve jamais.
+
+3
+00:00:13.633 --> 00:00:20.567
+Scannez le QR code avec l'appareil photo du téléphone, ou le lecteur de l'application Resauvia. Il faut être connecté.
+
+4
+00:00:20.867 --> 00:00:24.133
+Ce que vous pouvez faire dépend de qui vous êtes.
+
+5
+00:00:24.433 --> 00:00:30.633
+La gestion de la flotte : signaler l'état, ouvrir l'état des lieux complet et la fiche du véhicule.
+
+6
+00:00:30.933 --> 00:00:42.000
+Le conducteur de la réservation en cours : signaler l'état, changer de conducteur, déclarer une dégradation, faire l'état des lieux de départ, et remplir le carnet de bord.
+
+7
+00:00:42.300 --> 00:00:48.200
+Un passager : signaler l'état, changer de conducteur, et déclarer une dégradation.
+
+8
+00:00:48.500 --> 00:00:53.333
+Un autre agent : rien, sauf si la flotte a ouvert le signalement à tous.
+
+9
+00:00:53.633 --> 00:00:58.867
+En cours, cela compte de trente minutes avant le départ jusqu'à une heure après la fin.
+
+10
+00:01:00.567 --> 00:01:07.567
+Le conducteur trouve, en haut de la page, le panneau Votre réservation, avec un grand bouton selon le moment.
+
+11
+00:01:07.867 --> 00:01:22.133
+Avant le départ : Faire l'état des lieux de départ. Une fois parti : Remplir le carnet de bord, au retour, avec le compteur, l'état du véhicule et une remarque. Une fois rempli, le panneau dit : Carnet de bord rempli.
+
+12
+00:01:22.433 --> 00:01:29.367
+Parti sans faire l'état des lieux ? Il reste proposé, en petit, sous le carnet. Et les autres choix restent en dessous.
+
+13
+00:01:31.067 --> 00:01:35.900
+Tout va bien ? Touchez Véhicule en forme : c'est noté à l'heure, rien à traiter.
+
+14
+00:01:36.200 --> 00:01:43.367
+Sinon, sous Un problème, touchez ce qui ne va pas : siège arrière sale, voyant orange allumé, rayure.
+
+15
+00:01:43.667 --> 00:01:47.933
+Autre, ou une précision : quelques mots, si besoin.
+
+16
+00:01:48.233 --> 00:01:52.500
+Ajoutez jusqu'à cinq photos ; elles sont exigées pour la carrosserie.
+
+17
+00:01:52.800 --> 00:01:55.000
+Puis Envoyer le signalement.
+
+18
+00:01:55.300 --> 00:02:02.133
+Un problème grave, comme un pneu crevé, un voyant rouge ou les freins, prévient la flotte tout de suite par mail.
+
+19
+00:02:03.833 --> 00:02:12.600
+Pendant le trajet, quand un autre prend le volant : Qui prend le volant ? Choisissez un des conducteurs de la réservation, ou Une autre personne.
+
+20
+00:02:12.900 --> 00:02:21.000
+L'heure est celle du scan. Le changement a eu lieu plus tôt ? Cochez Le changement a eu lieu à une autre heure, puis indiquez-la.
+
+21
+00:02:21.300 --> 00:02:26.967
+Puis Noter le changement. Il apparaît sur la réservation, et dans Qui conduisait ?
+
+22
+00:02:27.267 --> 00:02:32.967
+Une autre personne, qui n'est pas prévue sur la réservation : la gestion de la flotte est prévenue.
+
+23
+00:02:33.267 --> 00:02:43.933
+Un choc, un accident, une casse ? Déclarer une dégradation ouvre l'écran d'incident, avec le véhicule et la réservation déjà choisis. La flotte est prévenue tout de suite.
+
+24
+00:02:45.633 --> 00:02:51.033
+Pour la gestion de la flotte : Réglages, Signalements, Étiquettes de la flotte.
+
+25
+00:02:51.333 --> 00:02:56.033
+Créer les QR codes qui manquent : chaque véhicule actif reçoit le sien.
+
+26
+00:02:56.333 --> 00:03:00.367
+Imprimer : deux étiquettes par ligne, une par véhicule.
+
+27
+00:03:00.667 --> 00:03:06.867
+Collez chacune dans l'habitacle de son véhicule : sur le tableau de bord, ou le montant de la portière.
+
+28
+00:03:07.167 --> 00:03:13.433
+Une seule étiquette ? Sur la fiche du véhicule, panneau QR code et signalements, Imprimer l'étiquette.
+
+29
+00:03:13.733 --> 00:03:20.467
+Étiquette perdue ou volée ? Même panneau : Renouveler le QR code. L'ancienne ne mène plus à rien.
+
+30
+00:03:22.167 --> 00:03:29.200
+Les signalements arrivent dans À traiter, Signalements des véhicules, les graves d'abord ; ou sur la fiche du véhicule.
+
+31
+00:03:29.500 --> 00:03:32.300
+Confirmer : le problème est retenu.
+
+32
+00:03:32.600 --> 00:03:43.267
+Confirmer et immobiliser, pour un problème grave : plus personne ne réserve le véhicule, et les réservations des sept prochains jours sont prévenues, avec un véhicule libre de remplacement.
+
+33
+00:03:43.567 --> 00:03:46.267
+Écarter : rien ne change.
+
+34
+00:03:46.567 --> 00:03:51.333
+Tous les signalements, en forme compris, se retrouvent dans l'historique du véhicule.
+
+35
+00:03:53.033 --> 00:03:58.400
+Un entretien planifié est confié à un garage extérieur, ou à l'atelier de la flotte.
+
+36
+00:03:58.700 --> 00:04:09.200
+À l'atelier : un mécanicien, connecté, scanne le QR code du véhicule, puis Vos interventions, C'est fait. L'entretien est aussi dans son Mon planning.
+
+37
+00:04:09.500 --> 00:04:21.000
+À un garage extérieur, sans compte : il scanne le QR code puis, sur la page Entretien du véhicule, L'entretien est fini, avec le compteur et une remarque s'il veut. Une seule fois.
+
+38
+00:04:21.300 --> 00:04:27.867
+La flotte reçoit un mail, Entretien déclaré fini ; elle note ensuite le retour du garage comme d'habitude.
+
+39
+00:04:28.167 --> 00:04:33.667
+Pas déclaré fini au retour prévu : la flotte et l'atelier reçoivent un mail, une fois.
+
+40
+00:04:33.967 --> 00:04:40.633
+La page du garage ne montre que l'entretien qui lui est confié : rien d'autre du véhicule ni de la collectivité.
+
+41
+00:04:42.333 --> 00:04:46.267
+Les choix proposés se règlent dans Réglages, Signalements.
+
+42
+00:04:46.567 --> 00:04:53.400
+Nouveau choix, pour en ajouter un : son nom, sa famille, grave ou non, photo exigée ou non.
+
+43
+00:04:53.700 --> 00:04:58.133
+Cliquez sur un choix pour le changer, et rangez-les dans Ordre des choix.
+
+44
+00:04:58.433 --> 00:05:03.667
+Retirer : il n'est plus proposé, et les signalements qui l'ont choisi le gardent.
+
+45
+00:05:03.967 --> 00:05:10.500
+Et pour ouvrir le signalement à tous les agents : Qui signale, Tout agent connecté qui scanne le QR code.
+
+46
+00:05:10.800 --> 00:05:13.867
+Les signalements sont effacés treize mois après.

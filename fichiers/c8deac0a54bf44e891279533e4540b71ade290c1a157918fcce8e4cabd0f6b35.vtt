@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.233
+Les plannings montrent qui occupe quoi, et quand : les lire, les filtrer, réserver depuis la grille, et les imprimer.
+
+2
+00:00:09.933 --> 00:00:16.300
+Les plannings sont dans Piloter, Plannings. Les onglets en tête changent de planning, selon vos droits.
+
+3
+00:00:16.600 --> 00:00:20.967
+Changez de jour avec Aujourd'hui, les flèches, ou la date.
+
+4
+00:00:21.267 --> 00:00:30.333
+La vue : Jour, avec une colonne par ressource, Semaine de travail, Semaine ou Mois. Un clic sur une case ouvre ce jour.
+
+5
+00:00:30.633 --> 00:00:39.567
+Choisissez un lieu, un bâtiment ou un étage, et les couleurs : par état, ou par catégorie. La légende est au-dessus de la grille.
+
+6
+00:00:39.867 --> 00:00:53.400
+Hachuré : à confirmer, une option ou une demande en attente. Des rayures autour d'un bloc : le temps d'installation et de rangement, compté comme occupé. Un cadenas : une réservation confidentielle.
+
+7
+00:00:53.700 --> 00:01:05.433
+Lecture seule, sous un nom : vous ne pouvez pas réserver cette ressource. Décochez Heures de travail pour voir toute la journée. Et l'adresse de la page garde vos réglages : mettez-la en favori.
+
+8
+00:01:05.733 --> 00:01:15.833
+Et des hachures rouges, Immobilisé, sur un véhicule : un incident pas encore résolu. Il ne se réserve plus, et le numéro de l'incident est sous son nom.
+
+9
+00:01:17.533 --> 00:01:28.133
+En vue Jour, cliquez sur un créneau libre, ou cliquez-glissez pour un créneau plus long. Le panneau propose Réserver : le formulaire s'ouvre avec la ressource et le créneau.
+
+10
+00:01:28.433 --> 00:01:37.433
+Plus d'options : Ajouter une information, un bandeau qui ne bloque pas, ou, si vous gérez la ressource, Rendre indisponible, pour des travaux.
+
+11
+00:01:39.133 --> 00:01:48.033
+En vue Jour, glissez une réservation que vous pouvez modifier : vers le haut ou le bas pour changer d'heure, vers une autre colonne pour changer de ressource.
+
+12
+00:01:48.333 --> 00:02:00.200
+Pendant le glisser, chaque colonne dit si elle est libre, sur validation, prise ou trop petite. Échap annule. Lâchez : une fenêtre dit ce qui change, puis Déplacer.
+
+13
+00:02:00.500 --> 00:02:06.633
+Une réservation à la journée, à la nuitée ou vers un autre site se change par Modifier.
+
+14
+00:02:08.333 --> 00:02:16.700
+Un clic sur un bloc ouvre sa fenêtre : l'état, le numéro, l'horaire, pour qui. Voir le détail ouvre la fiche.
+
+15
+00:02:17.000 --> 00:02:23.133
+Un clic sur le nom d'une ressource ouvre sa fiche rapide, avec Réserver et Imprimer son planning.
+
+16
+00:02:24.833 --> 00:02:32.467
+Sur un téléphone, la grille devient une liste : une carte par ressource, avec ses réservations du jour, et Réserver.
+
+17
+00:02:34.167 --> 00:02:40.267
+Pour imprimer, réglez d'abord le planning, puis cliquez sur Imprimer, en haut du planning.
+
+18
+00:02:40.567 --> 00:02:52.933
+L'aperçu montre la page en A4 paysage, en couleurs. En vue Jour, choisissez avec ou sans le détail des réservations, puis Imprimer. L'objet des réservations confidentielles y est masqué.

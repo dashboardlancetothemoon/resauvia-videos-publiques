@@ -1,0 +1,57 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.267
+Les paramètres valent pour toute l'organisation : nom, fuseau, journée des plannings, conservation des données, mails. Ils sont dans Administration, Paramètres.
+
+2
+00:00:12.967 --> 00:00:21.167
+Le nom apparaît dans les mails. Le fuseau horaire, par exemple Europe Paris : réglez-le avant toute réservation et tout import.
+
+3
+00:00:21.467 --> 00:00:38.167
+La journée, début et fin, donne les heures des plannings et la journée entière ; la pause, facultative, sépare matin et après-midi dans le planning des agents. Puis Enregistrer. Et une personne, un groupe ou un service peut avoir ses propres horaires.
+
+4
+00:00:39.867 --> 00:00:50.367
+Au-delà de ces durées, Resauvia efface tout seul, chaque heure : les réservations terminées après trente-six mois, avec leur historique, et les comptes désactivés après douze mois.
+
+5
+00:00:50.667 --> 00:01:02.700
+Fixez-les avec votre délégué à la protection des données, et exportez avant de raccourcir ce que vous voulez garder. Son adresse, dans Contact données personnelles, s'affiche sur la page Données personnelles.
+
+6
+00:01:04.400 --> 00:01:16.767
+Panneau Accessibilité : laissez cochée Afficher la déclaration, obligatoire pour les organismes publics, et donnez un contact où signaler un défaut. L'état de conformité et l'audit viennent d'Auxentis.
+
+7
+00:01:18.467 --> 00:01:26.933
+Le panneau Mails montre l'aperçu d'un mail type : le lien principal devient un bouton, et le nom de l'organisation est en tête.
+
+8
+00:01:28.633 --> 00:01:43.133
+Accord du N+1 : une réservation posée pendant une absence de la personne attend l'accord de son supérieur. Cochez aussi, si vous voulez, le télétravail, la formation ou le déplacement ; rien de coché, jamais d'accord.
+
+9
+00:01:44.833 --> 00:02:00.133
+Rappels au N+1 : une réservation qui attend relance seule le supérieur, après vingt-quatre heures ouvrées, trois fois au plus, et une dernière fois la veille à huit heures. Un seul mail liste toutes ses demandes ; pendant une délégation, il va au remplaçant.
+
+10
+00:02:01.833 --> 00:02:11.400
+Jours fériés : choisissez le régime de l'organisation, métropole, Alsace-Moselle ou outre-mer. Un site d'un autre régime a le sien dans Lieux.
+
+11
+00:02:11.700 --> 00:02:22.067
+Fermer les réservations les jours fériés est décochée d'office. Fermés, seule la gestion de la ressource réserve ces jours-là, sauf sur une ressource ouverte les jours fériés.
+
+12
+00:02:22.367 --> 00:02:29.367
+Les jours fériés sont calculés : rien à saisir. Ils sont grisés sur les plannings, et écartés par les répétitions.
+
+13
+00:02:31.067 --> 00:02:43.133
+Dans Administration, Vacances scolaires, choisissez la zone de l'organisation ; un site d'une autre académie a la sienne dans Lieux. Le calendrier officiel est lu aussitôt, puis chaque jour.
+
+14
+00:02:43.433 --> 00:02:55.800
+Retirez une période à ne pas suivre, ou ajoutez-en une, comme un pont. Ensuite, une fenêtre prévient qui réserve pendant des vacances, et un mail rappelle à chacun ses réservations une semaine avant.

@@ -1,0 +1,89 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.533
+Ce guide range les ressources dans des lieux, puis règle pour chacune qui la voit, qui la réserve et qui valide.
+
+2
+00:00:09.233 --> 00:00:20.400
+Dans Administration, Lieux, Nouveau lieu : un nom, un type, site, bâtiment, étage ou zone, et le lieu qui le contient. L'ordre range les étages.
+
+3
+00:00:20.700 --> 00:00:30.667
+L'adresse d'un site ou d'un bâtiment sert de départ aux trajets des véhicules garés là. Un site d'Alsace-Moselle ou d'outre-mer a ses jours fériés et sa zone de vacances.
+
+4
+00:00:30.967 --> 00:00:39.233
+Déplacer un lieu emporte tout ce qu'il contient ; un lieu ne se supprime pas. Et un import de ressources crée les lieux qui manquent.
+
+5
+00:00:40.933 --> 00:00:55.133
+Dans Réglages, Catégories : les catégories de réservation, comme réunion ou formation, colorent le planning par catégorie. Les catégories de ressources sont proposées sur les fiches ; celles des véhicules se règlent avec la flotte.
+
+6
+00:00:56.833 --> 00:01:09.600
+Sur une catégorie de ressources, trois règles : au plus tant de jours à l'avance, au moins tant d'heures avant, et au plus tant de réservations à venir par personne. Vide : sans limite.
+
+7
+00:01:09.900 --> 00:01:17.067
+La confirmation de présence, demandée tant d'heures avant : sans confirmation au début, la réservation est libérée.
+
+8
+00:01:17.367 --> 00:01:26.267
+Une ressource peut avoir les siennes, sur sa fiche. La gestion de la ressource n'est pas soumise aux trois premières règles, et qui réserve voit la règle en clair.
+
+9
+00:01:27.967 --> 00:01:41.200
+Le formulaire peut demander plus, comme le nombre d'enfants. Dans Réglages, Champs du formulaire, Nouveau champ : un libellé, puis le genre, texte, nombre, oui ou non, ou liste de choix.
+
+10
+00:01:41.500 --> 00:01:47.233
+Obligatoire si besoin, et qui lit les réponses : tous, ou la gestion seulement.
+
+11
+00:01:47.533 --> 00:01:55.400
+Demandé pour : les salles, les bureaux, les véhicules, et au choix certaines catégories. Puis Créer le champ.
+
+12
+00:01:55.700 --> 00:02:05.500
+Les réponses se lisent sur la fiche, et en colonnes dans Toutes les réservations. Un champ retiré garde ses réponses. Et ne demandez jamais de donnée sensible.
+
+13
+00:02:07.200 --> 00:02:16.700
+Dans Réglages, Salles et bureaux, Nouvelle salle : un numéro court et unique, un nom, une catégorie, un lieu, et les places.
+
+14
+00:02:17.000 --> 00:02:24.567
+La fiche a ses onglets : présentation, réservation, configurations et services, matériel et carnet de bord.
+
+15
+00:02:24.867 --> 00:02:39.367
+Un regroupement réunit deux salles : le réserver bloque les deux. Les nuitées donnent une arrivée et un départ à heure fixe ; la segmentation, un créneau par jour. Et un bureau partagé a un titulaire : il se réserve pendant ses absences.
+
+16
+00:02:41.067 --> 00:02:52.133
+Onglet Réservation, le même pour toutes les ressources. Qui peut réserver : tous ceux qui voient son planning, ou ses gestionnaires seulement. Puis : faut-il une validation ?
+
+17
+00:02:52.433 --> 00:02:57.200
+Visibilité : publique, ou privée, pour les seuls groupes choisis.
+
+18
+00:02:57.500 --> 00:03:09.067
+Les groupes : les gestionnaires valident, rendent indisponible et voient tout ; les prioritaires réservent sans validation ; les autorisés voient et réservent une ressource privée.
+
+19
+00:03:09.367 --> 00:03:23.400
+Installation et rangement bloquent des minutes avant et après chaque réservation. Avec une validation, il faut au moins un groupe gestionnaire. Et décocher Active retire la ressource du planning, sans annuler ses réservations à venir.
+
+20
+00:03:25.100 --> 00:03:38.800
+Panneau Règles d'annulation : ajoutez une règle, avec un délai, et ce qui se passe en deçà : ne plus pouvoir annuler, prévenir le demandeur, ou prévenir les gestionnaires. La frise montre ce que vit le demandeur.
+
+21
+00:03:39.100 --> 00:03:44.667
+Les mêmes règles valent pour déplacer tard une réservation, et les gestionnaires peuvent toujours annuler.
+
+22
+00:03:46.367 --> 00:04:00.000
+Pour bloquer une ressource, au planning : Plus d'options, Rendre indisponible ; pour un véhicule, sur son incident : Véhicule immobilisé. Les réservations déjà prises ne sont pas annulées : prévenez leurs auteurs.

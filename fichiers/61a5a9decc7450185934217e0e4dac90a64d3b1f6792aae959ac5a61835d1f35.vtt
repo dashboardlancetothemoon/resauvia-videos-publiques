@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.367
+Avec ce module, les agents entrent avec leur identifiant et leur mot de passe Windows, et leurs comptes suivent l'annuaire de l'organisation : Active Directory, ou un autre annuaire LDAP.
+
+2
+00:00:11.667 --> 00:00:15.633
+Sur un poste du domaine, ils peuvent même entrer sans mot de passe.
+
+3
+00:00:17.333 --> 00:00:26.800
+Sur la page de connexion, champ Identifiant ou adresse mail : votre identifiant Windows. Puis votre mot de passe Windows, et Se connecter.
+
+4
+00:00:27.100 --> 00:00:36.667
+Mot de passe expiré : changez-le sur votre poste, puis reconnectez-vous. Oublié ou bloqué : c'est le service informatique ; Resauvia ne le change pas.
+
+5
+00:00:36.967 --> 00:00:46.200
+Trop d'essais de connexion : attendez quinze minutes, sans réessayer. Resauvia arrête d'interroger l'annuaire, pour que votre compte Windows ne soit pas verrouillé.
+
+6
+00:00:46.500 --> 00:00:53.333
+Et sur un poste du domaine, Se connecter avec Windows vous fait entrer sans mot de passe, si votre organisation l'a réglé.
+
+7
+00:00:55.033 --> 00:01:08.600
+Pour l'administration, d'abord : un compte de service en lecture seule, dont le mot de passe n'expire pas, et l'accès du serveur de Resauvia au port 636 d'un contrôleur de domaine. Hébergé chez Auxentis, par un lien VPN.
+
+8
+00:01:08.900 --> 00:01:20.367
+Dans Administration, Connexions, Annuaire de l'organisation, panneau Réglages : le type d'annuaire, et les serveurs, un par ligne : le principal, puis les secours.
+
+9
+00:01:20.667 --> 00:01:29.200
+Puis la base de recherche, le compte de service et son mot de passe. Et si vous voulez, un groupe autorisé : seuls ses membres entrent.
+
+10
+00:01:29.500 --> 00:01:38.800
+Le seuil de verrouillage de l'annuaire : au moins deux de moins que celui de votre Active Directory. Ainsi, personne ne peut verrouiller un compte Windows par Resauvia.
+
+11
+00:01:39.100 --> 00:01:45.233
+Tester la connexion : Resauvia dit combien de personnes il trouve, ou la raison de l'échec.
+
+12
+00:01:45.533 --> 00:01:49.800
+Cochez Connexion par l'annuaire active, puis Enregistrer.
+
+13
+00:01:50.100 --> 00:01:57.800
+Resauvia ne garde jamais le mot de passe Windows. Une personne retirée de l'annuaire, ou du groupe, est refusée tout de suite.
+
+14
+00:01:58.100 --> 00:02:04.300
+Ceux qui administrent gardent aussi le mot de passe de Resauvia : c'est le secours si l'annuaire ne répond plus.
+
+15
+00:02:06.000 --> 00:02:14.367
+Même page : cochez Créer et tenir à jour les comptes et les groupes depuis l'annuaire, puis choisissez les groupes donnés aux nouveaux comptes.
+
+16
+00:02:14.667 --> 00:02:20.567
+Synchronisation en direct, si vous le voulez : l'annuaire est relu tous les quarts d'heure au lieu de chaque jour.
+
+17
+00:02:20.867 --> 00:02:26.833
+Les services qui manquent sont créés d'après l'annuaire, case cochée d'office ; jamais supprimés.
+
+18
+00:02:27.133 --> 00:02:34.067
+Aperçu : ce qui sera créé, mis à jour, désactivé, réactivé. Rien n'est écrit.
+
+19
+00:02:34.367 --> 00:02:41.100
+Enregistrer, puis Voir ce qui est importé : la première importation attend que vous ayez vu la liste.
+
+20
+00:02:41.400 --> 00:02:48.167
+Un compte réactivé dans l'annuaire l'est aussi dans Resauvia, sauf s'il a été désactivé à la main, ou qu'il administre.
+
+21
+00:02:48.467 --> 00:02:57.433
+Voir ce qui est importé montre les groupes et les personnes de l'annuaire, en deux onglets. La première fois, tout est coché, et rien n'est encore importé.
+
+22
+00:02:57.733 --> 00:03:09.133
+Décochez ce que vous ne voulez pas, ou cherchez, puis Retirer tous ces résultats. Puis Lancer l'importation : les comptes et les groupes sont créés, et la synchronisation suit l'annuaire.
+
+23
+00:03:09.433 --> 00:03:24.700
+Ensuite, retirer une personne désactive son compte, et retirer un groupe le supprime ; un élément retiré ne revient jamais par la synchronisation, et Reprendre le remet. Un compte qui administre n'est jamais désactivé ainsi.
+
+24
+00:03:25.000 --> 00:03:36.067
+Tous les groupes de l'annuaire deviennent des groupes Resauvia du même nom, sans aucun droit, avec leurs membres. Créé, renommé ou supprimé dans l'annuaire, un groupe l'est aussi dans Resauvia.
+
+25
+00:03:36.367 --> 00:03:41.067
+Et au-delà de dix pour cent de groupes disparus d'un coup, rien n'est supprimé.
+
+26
+00:03:41.367 --> 00:03:53.567
+Sans tout importer, panneau Groupes de l'annuaire : cherchez un groupe, cliquez sur Suivre, et choisissez son groupe dans Resauvia : un groupe du même nom, sans aucun droit, ou un groupe qui existe déjà.
+
+27
+00:03:53.867 --> 00:04:04.200
+Puis Enregistrer les groupes suivis. À chaque passage, les membres le reçoivent, et le perdent s'ils quittent le groupe. Les droits se donnent dans Administration, Groupes.
+
+28
+00:04:04.500 --> 00:04:14.467
+Nom, téléphone, service, identifiant Windows et N+1 suivent l'annuaire. Un compte qui administre n'est jamais rattaché seul, ni désactivé.
+
+29
+00:04:14.767 --> 00:04:19.300
+Et au-delà de dix pour cent de départs d'un coup, personne n'est désactivé.
+
+30
+00:04:21.000 --> 00:04:28.933
+Seulement si l'organisation le demande : le service informatique suit la marche à suivre affichée, pour le serveur et pour les navigateurs.
+
+31
+00:04:29.233 --> 00:04:39.533
+Panneau Réglages, partie Kerberos : le royaume Kerberos, le keytab du serveur ; cochez Proposer Se connecter avec Windows, puis Enregistrer.
+
+32
+00:04:39.833 --> 00:04:46.333
+Essayez sur un poste du domaine. Hors du domaine, l'agent entre avec son identifiant et son mot de passe.

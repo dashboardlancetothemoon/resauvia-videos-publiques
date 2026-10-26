@@ -1,0 +1,77 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:10.467
+Une personne a les droits de tous ses groupes. Un droit ne se donne jamais à une personne : mettez-la dans un groupe. Et le droit Administrer donne tous les autres.
+
+2
+00:00:12.167 --> 00:00:23.667
+Dans Administration, Personnes, cliquez sur Inviter une personne : son prénom, son nom, son adresse mail, qui sera son identifiant, son service et ses groupes.
+
+3
+00:00:23.967 --> 00:00:33.267
+Inviter : elle reçoit un lien valable sept jours pour choisir son mot de passe. Les onglets séparent les personnes actives, invitées et désactivées.
+
+4
+00:00:33.567 --> 00:00:45.133
+Lien expiré ? Sur la fiche, Renvoyer l'invitation. Personnes préparées sans mail, ou liens expirés : Inviter ces personnes les invite toutes d'un coup. Et une liste entière s'importe.
+
+5
+00:00:46.833 --> 00:00:57.500
+La fiche d'une personne : son nom, son adresse, son service, ses groupes, son supérieur et ses horaires de travail. Changer l'adresse change son identifiant.
+
+6
+00:00:57.800 --> 00:01:08.067
+À côté, le compte : état, dernière connexion, sessions ouvertes ; et l'historique de ses dernières actions. Une fiche marquée Annuaire se modifie dans l'annuaire.
+
+7
+00:01:09.767 --> 00:01:20.433
+Pour le départ d'un agent : sur sa fiche, décochez Compte actif, puis Enregistrer. Ses sessions sont fermées, ses liens ne marchent plus, et son permis est retiré.
+
+8
+00:01:20.733 --> 00:01:33.000
+Relisez ses réservations à venir : elles ne sont pas annulées. Le compte est effacé tout seul après douze mois ; Effacer maintenant le fait tout de suite, et Télécharger ses données répond à une demande d'accès.
+
+9
+00:01:33.300 --> 00:01:38.633
+Vous ne pouvez pas désactiver votre propre compte, ni la dernière personne qui administre.
+
+10
+00:01:40.333 --> 00:01:55.633
+Votre mot de passe est redemandé pour les actions sensibles : donner le droit d'administrer, changer une adresse mail, régler une connexion, effacer un compte. Et un compte qui administre, à sa première connexion unique, confirme une fois avec son mot de passe Resauvia.
+
+11
+00:01:57.333 --> 00:02:06.333
+Dans Administration, Groupes et droits, Nouveau groupe : un nom, une description parlante, et ses droits. Puis Créer le groupe.
+
+12
+00:02:06.633 --> 00:02:21.067
+Une organisation neuve a déjà ses groupes de départ : renommez-les, adaptez leurs droits. Un groupe sans droit sert à désigner des personnes ailleurs, par exemple les gestionnaires d'une salle. Un groupe ne se supprime pas : retirez-lui ses droits.
+
+13
+00:02:22.767 --> 00:02:30.633
+Réserver des salles ou des bureaux, et les gérer : fiches et catégories. Réserver des véhicules, et gérer la flotte.
+
+14
+00:02:30.933 --> 00:02:38.800
+Réserver pour son service, ou pour tous : choisir un autre bénéficiaire. Voir l'historique de toutes les réservations.
+
+15
+00:02:39.100 --> 00:02:44.267
+Voir le planning des agents, et saisir leurs plages. Gérer la documentation.
+
+16
+00:02:44.567 --> 00:02:55.867
+Administrer l'organisation donne tous les autres droits : l'administrateur gère toutes les ressources, ses réservations sont confirmées tout de suite, et il voit l'objet des réservations confidentielles.
+
+17
+00:02:57.567 --> 00:03:06.967
+Dans Administration, Services, Nouveau service : un nom, un code, et le service auquel il est rattaché ; les directions d'abord.
+
+18
+00:03:07.267 --> 00:03:18.433
+Le responsable d'un service approuve les réservations posées pendant une absence de ses agents qui n'ont pas de N+1. Sans supérieur ni responsable, les gestionnaires de la ressource décident.
+
+19
+00:03:18.733 --> 00:03:29.667
+Les horaires de travail, d'une personne, d'un groupe ou d'un service, changent seulement l'affichage des plannings. Et nommez les services comme dans l'annuaire : un import les reconnaît par leur nom.
