@@ -1,0 +1,141 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.700
+Une carte des véhicules équipés d'un boîtier : où ils sont garés, et lesquels sont les plus proches d'une adresse par la route, pour y envoyer quelqu'un.
+
+2
+00:00:09.000 --> 00:00:14.400
+Jamais une personne sur la carte : seulement des véhicules, et seulement à l'arrêt.
+
+3
+00:00:14.700 --> 00:00:27.600
+Elle s'ouvre dans Piloter, Carte de la flotte, ou dans Flotte, Carte. Pour la donner à d'autres que la flotte : le droit Voir la carte de la flotte, sur un groupe, dans Administration, Groupes.
+
+4
+00:00:29.300 --> 00:00:34.400
+Un véhicule libre, garé : son repère vert, là où il a été garé.
+
+5
+00:00:34.700 --> 00:00:40.967
+En réservation, à l'arrêt : son repère violet, là où il s'est arrêté à la fin de son dernier trajet.
+
+6
+00:00:41.267 --> 00:00:52.333
+En route, contact mis : aucune position ; il n'est que dans la liste, En route. Un véhicule sans boîtier, ou pas encore relevé, est lui aussi dans la liste seulement.
+
+7
+00:00:52.633 --> 00:01:01.967
+Jamais le parcours d'un véhicule, jamais un véhicule qui roule : la position n'est connue qu'à l'arrêt. Et jamais le nom d'une personne sur la carte.
+
+8
+00:01:02.267 --> 00:01:08.700
+Un point orange à côté du numéro : le carburant ou la batterie est bas, vingt pour cent ou moins.
+
+9
+00:01:09.000 --> 00:01:17.967
+La carte se met à jour toute seule toutes les trente secondes. Dessous, la liste de tous les véhicules dit la même chose, avec l'adresse approchée de chacun.
+
+10
+00:01:19.667 --> 00:01:26.200
+Pour envoyer quelqu'un à une adresse : tapez-la dans Adresse, puis choisissez-la dans les propositions.
+
+11
+00:01:26.500 --> 00:01:37.167
+Pour un type de véhicule précis, un utilitaire, un minibus, choisissez aussi sa Catégorie. Seule la recherche en tient compte : la carte montre toujours toute la flotte.
+
+12
+00:01:37.467 --> 00:01:39.333
+Chercher les plus proches.
+
+13
+00:01:39.633 --> 00:01:45.767
+Les cinq véhicules à l'arrêt les plus rapides à venir s'affichent, avec la distance et le temps par la route.
+
+14
+00:01:46.067 --> 00:01:52.200
+L'adresse apparaît sur la carte. Cliquez sur un véhicule, dans la liste ou sur la carte, pour l'ouvrir.
+
+15
+00:01:52.500 --> 00:02:05.233
+Si l'itinéraire ne répond pas, la distance s'affiche à vol d'oiseau, en attendant. Et un véhicule électrique dont la batterie ne suffit pas pour l'aller-retour, avec vingt pour cent de marge, est signalé : autonomie trop juste.
+
+16
+00:02:05.533 --> 00:02:08.133
+Chaque recherche est notée au journal.
+
+17
+00:02:09.833 --> 00:02:20.933
+Pour un véhicule en réservation, Voir le conducteur donne son nom et son téléphone ; depuis un téléphone, un clic sur le numéro l'appelle. La consultation est notée au journal du véhicule.
+
+18
+00:02:21.233 --> 00:02:30.700
+Puis Envoyer à une adresse : l'adresse cherchée est déjà remplie. Changez-la si besoin, et ajoutez un message si vous le voulez, deux cents caractères au plus.
+
+19
+00:02:31.000 --> 00:02:32.733
+Envoyer l'adresse.
+
+20
+00:02:33.033 --> 00:02:43.367
+Le conducteur reçoit une notification sur l'application mobile, sans l'adresse, et un mail avec l'adresse et un lien vers l'itinéraire. La page vous dit ensuite s'il l'a vue.
+
+21
+00:02:43.667 --> 00:02:52.033
+Pour un véhicule libre, Réserver ce véhicule ouvre le formulaire de réservation, avec ce véhicule, et l'adresse comme destination.
+
+22
+00:02:53.733 --> 00:03:03.033
+Pour le conducteur : la notification ou le mail mènent à la page Une adresse pour vous, avec l'adresse, le message, et qui l'a envoyée.
+
+23
+00:03:03.333 --> 00:03:05.167
+Ouvrir l'itinéraire.
+
+24
+00:03:05.467 --> 00:03:11.000
+Votre première ouverture est notée : la personne qui vous l'a envoyée sait que vous l'avez vue.
+
+25
+00:03:12.700 --> 00:03:21.867
+Zone couverte : dix, quinze ou trente minutes. Ce que les véhicules libres peuvent atteindre en voiture dans ce temps est dessiné sur la carte.
+
+26
+00:03:22.167 --> 00:03:26.267
+Utile pour voir les quartiers qu'aucun véhicule libre ne couvre vite.
+
+27
+00:03:26.567 --> 00:03:33.233
+Masquer retire la zone. Les quinze premiers véhicules libres sont comptés ; au-delà, la page le dit.
+
+28
+00:03:34.933 --> 00:03:48.800
+Pour la flotte : un véhicule libre, garé loin de l'adresse de son site depuis longtemps, a peut-être été oublié ou mal rangé. Resauvia prévient alors la gestion de la flotte, une fois, par mail, avec le lien vers la carte.
+
+29
+00:03:49.100 --> 00:03:54.200
+En bas de la carte : Réglages, véhicule garé loin de son site.
+
+30
+00:03:54.500 --> 00:04:02.767
+La distance en kilomètres, et depuis combien d'heures : cinq kilomètres et douze heures d'office ; zéro pour jamais.
+
+31
+00:04:03.067 --> 00:04:04.567
+Enregistrer.
+
+32
+00:04:04.867 --> 00:04:12.000
+Le site d'un véhicule est le premier lieu de son emplacement ; son adresse se règle dans Administration, Lieux.
+
+33
+00:04:13.700 --> 00:04:20.233
+Les positions : seulement celles du véhicule à l'arrêt, gardées deux mois par le module Boîtiers des véhicules.
+
+34
+00:04:20.533 --> 00:04:27.267
+Les itinéraires et les zones sont calculés sur le serveur cartographique d'Auxentis, en France, sans aucun nom.
+
+35
+00:04:27.567 --> 00:04:36.033
+Les adresses envoyées aux conducteurs sont gardées trente jours. Et les conducteurs en sont informés, par ce guide et par la page Données personnelles.
