@@ -1,0 +1,65 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.300
+Avec ce module, le logiciel porte votre nom, vos couleurs, votre fond et votre logo, à la place de ceux de Resauvia.
+
+2
+00:00:08.600 --> 00:00:11.533
+Il est réglé par Auxentis, pour vous.
+
+3
+00:00:13.233 --> 00:00:21.333
+En haut du menu et sur la page de connexion : votre logo, avec votre nom écrit à côté ; sans logo, votre nom.
+
+4
+00:00:21.633 --> 00:00:25.667
+La page active du menu prend un trait de votre couleur secondaire.
+
+5
+00:00:25.967 --> 00:00:33.033
+Les boutons, les liens et la sélection prennent votre couleur principale. L'onglet du navigateur porte votre nom.
+
+6
+00:00:33.333 --> 00:00:39.700
+Le fond des pages et des panneaux prend votre couleur de fond, sinon une teinte claire de votre couleur principale.
+
+7
+00:00:40.000 --> 00:00:45.467
+En thème sombre, le fond suit : presque noir, teinté de votre couleur de fond.
+
+8
+00:00:45.767 --> 00:00:53.100
+Les mails arrivent à votre nom, avec votre logo en tête, des boutons de votre couleur, et votre fond autour du mail.
+
+9
+00:00:53.400 --> 00:00:55.600
+Et votre nom dans la signature.
+
+10
+00:00:55.900 --> 00:01:04.100
+L'application mobile prend aussi vos couleurs, votre nom et votre logo ; les PDF et l'application d'authentification, votre nom.
+
+11
+00:01:04.400 --> 00:01:15.967
+Les couleurs d'état ne changent pas : réussi reste vert, erreur reste rouge. Et restent Resauvia : l'assistant, l'application dans les stores, les guides, et les pages légales.
+
+12
+00:01:17.667 --> 00:01:23.133
+Auxentis la règle pour vous. Envoyez-nous le nom à afficher, soixante caractères au plus.
+
+13
+00:01:23.433 --> 00:01:32.433
+Votre couleur principale et votre couleur secondaire, en code hexadécimal, comme sur votre charte graphique ; et, si vous le voulez, votre couleur de fond.
+
+14
+00:01:32.733 --> 00:01:38.933
+Et votre logo, en SVG de préférence, sinon PNG ou JPEG, sur fond transparent.
+
+15
+00:01:39.233 --> 00:01:52.933
+Vos couleurs sont ajustées pour rester lisibles, en thème clair comme en thème sombre : une couleur trop pâle est un peu assombrie, une couleur trop foncée un peu éclaircie, et un fond trop foncé est éclairci, pour que le texte reste net.
+
+16
+00:01:53.233 --> 00:02:01.767
+Le logo ne se change pas dans le logiciel : demandez-le à Auxentis. Et chaque réglage est noté dans Administration, Journal des actions.
