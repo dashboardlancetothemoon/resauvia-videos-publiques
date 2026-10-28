@@ -1,0 +1,109 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.667
+Avec ce module, un boîtier Teltonika dans le véhicule permet à Resauvia de noter chaque trajet : le départ et l'arrivée, jamais le parcours.
+
+2
+00:00:09.967 --> 00:00:15.433
+Il lit le kilométrage, le carburant ou la batterie, et sait où le véhicule est garé.
+
+3
+00:00:15.733 --> 00:00:22.900
+Avec un CAN-CONTROL, la flotte peut aussi ouvrir le véhicule, le verrouiller, ou bloquer son moteur à distance.
+
+4
+00:00:24.600 --> 00:00:36.967
+Un trajet va du contact mis au contact coupé. Resauvia en garde deux points seulement : le départ et l'arrivée, avec l'heure, le kilométrage, le carburant ou la batterie, et la position.
+
+5
+00:00:37.267 --> 00:00:44.433
+La distance et la vitesse moyenne sont calculées. La vitesse moyenne ne sert jamais à contrôler les excès de vitesse.
+
+6
+00:00:44.733 --> 00:00:54.367
+Le conducteur et la flotte voient les trajets d'une réservation sur sa fiche, panneau Trajets du boîtier ; la flotte, tous ceux du véhicule, dans son historique.
+
+7
+00:00:54.667 --> 00:01:03.200
+Et Rendre le véhicule propose le compteur et l'heure relevés par le boîtier à la dernière arrivée : vérifiez-les, et corrigez-les s'il le faut.
+
+8
+00:01:03.500 --> 00:01:08.267
+Les positions sont effacées après deux mois ; le trajet, après treize mois.
+
+9
+00:01:09.967 --> 00:01:15.700
+Pour la flotte : sur la fiche du véhicule, onglet Aperçu, panneau Boîtier.
+
+10
+00:01:16.000 --> 00:01:21.000
+L'IMEI : les quinze chiffres inscrits sur le boîtier et sur sa boîte.
+
+11
+00:01:21.300 --> 00:01:26.700
+Le modèle ; et, pour le boîtier câblé, Avec un CAN-CONTROL, s'il en a un.
+
+12
+00:01:27.000 --> 00:01:31.500
+Puis Relier le boîtier. Il passe En ligne dès sa première connexion.
+
+13
+00:01:31.800 --> 00:01:35.767
+Un boîtier qui n'est relié à aucun véhicule est refusé.
+
+14
+00:01:37.467 --> 00:01:43.500
+Sur la fiche du véhicule, le panneau Boîtier dit s'il est en ligne, ou sa dernière communication.
+
+15
+00:01:43.800 --> 00:01:56.167
+Puis le contact, mis ou coupé ; le kilométrage, du tableau de bord, de la prise OBD, ou compté par le GPS ; le carburant ; et la charge de la batterie d'un véhicule électrique.
+
+16
+00:01:56.467 --> 00:02:04.267
+Garé : Voir sur la carte montre où le véhicule est garé. Cette position n'est gardée qu'à l'arrêt, hors réservation.
+
+17
+00:02:05.967 --> 00:02:11.767
+Avec un CAN-CONTROL : Ouvrir les portes, pour une clé oubliée ; ou Verrouiller.
+
+18
+00:02:12.067 --> 00:02:20.900
+Pour empêcher le véhicule de démarrer, en cas de vol par exemple : cochez Le véhicule ne pourra plus démarrer, puis Bloquer le moteur.
+
+19
+00:02:21.200 --> 00:02:24.200
+Débloquer le moteur le rend utilisable.
+
+20
+00:02:24.500 --> 00:02:40.767
+L'ordre part dès que le boîtier est connecté ; sinon, il est abandonné après deux minutes. Les derniers ordres s'affichent dessous : en attente, envoyé, abandonné, ou réponse reçue, avec le texte rendu par le boîtier : vérifiez qu'il confirme bien l'ordre.
+
+21
+00:02:41.067 --> 00:02:50.733
+Chaque ordre est noté dans l'historique du véhicule et dans le journal des actions. Tous les véhicules ne s'ouvrent pas ainsi : Teltonika publie la liste des modèles compatibles.
+
+22
+00:02:52.433 --> 00:03:00.467
+Boîtier changé de véhicule, ou en panne : Retirer le boîtier. Le serveur ne l'accepte plus, et ses ordres sont effacés.
+
+23
+00:03:00.767 --> 00:03:03.667
+Les ordres donnés sont gardés treize mois.
+
+24
+00:03:05.367 --> 00:03:16.367
+À l'installation, une fois : le boîtier doit connaître l'adresse de votre serveur. Administration, Connexions, Boîtiers des véhicules la donne, avec la commande SMS toute prête.
+
+25
+00:03:16.667 --> 00:03:26.800
+La carte SIM dans le boîtier, code PIN désactivé ; puis l'adresse, par Teltonika Configurator, ou en envoyant la commande SMS au numéro de la carte.
+
+26
+00:03:27.100 --> 00:03:32.000
+Le port est ouvert sur votre serveur par Auxentis, à l'installation du module.
+
+27
+00:03:32.300 --> 00:03:42.433
+Et le moins de données possible : le boîtier n'envoie qu'au contact mis et au contact coupé, deux messages par trajet. Auxentis prépare ce réglage avec le premier boîtier.
