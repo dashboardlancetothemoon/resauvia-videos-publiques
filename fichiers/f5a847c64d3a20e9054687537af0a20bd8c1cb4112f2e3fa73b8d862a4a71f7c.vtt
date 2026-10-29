@@ -1,0 +1,101 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.267
+Avec ce module, une page publique des disponibilités, à mettre sur le site de la collectivité.
+
+2
+00:00:06.567 --> 00:00:17.933
+Les associations et partenaires qui ont un compte y demandent une réservation ; si vous l'ouvrez, tout le monde peut aussi demander par mail, sans compte. La gestion de la ressource valide chaque demande.
+
+3
+00:00:18.233 --> 00:00:24.067
+La page montre libre ou occupé, et les heures : jamais un nom, ni un objet.
+
+4
+00:00:25.767 --> 00:00:33.400
+Côté association : sur la page publique, Se connecter, avec son adresse mail et son mot de passe, pour faire une demande.
+
+5
+00:00:33.700 --> 00:00:44.633
+Faire une demande : la ressource, le jour, les heures, un titre et le nombre de personnes. Puis Envoyer la demande ; un créneau déjà pris est refusé tout de suite.
+
+6
+00:00:44.933 --> 00:00:53.900
+Mes demandes : l'état de chacune, et Annuler une demande à venir. Une association connectée clique aussi directement sur un jour du planning.
+
+7
+00:00:55.600 --> 00:01:03.100
+La demande arrive dans Traiter, Demandes, avec le motif Demande du portail public, et le nom de la structure.
+
+8
+00:01:03.400 --> 00:01:09.267
+Approuver ou Refuser, comme une réservation : l'association reçoit la réponse par mail.
+
+9
+00:01:09.567 --> 00:01:16.167
+La demande suit toutes les règles de la ressource : jours à l'avance, délai, jours fériés, places.
+
+10
+00:01:17.867 --> 00:01:24.000
+Réglages, Portail public, panneau Portail : cochez Ouvrir le portail public.
+
+11
+00:01:24.300 --> 00:01:31.700
+Écrivez un texte d'accueil : à qui s'adresse le portail, les conditions, un contact. Puis Enregistrer.
+
+12
+00:01:32.000 --> 00:01:41.133
+Panneau Ressources montrées : cochez les ressources à proposer, puis Enregistrer les ressources. Seules les ressources publiques et actives peuvent y aller.
+
+13
+00:01:41.433 --> 00:01:50.267
+En consultation seule, laissez décochées les deux cases de demandes : la page montre seulement libre ou occupé, sans connexion ni demande.
+
+14
+00:01:51.967 --> 00:02:02.500
+Pour ouvrir les demandes à tous, sans compte : Réglages, Portail public, panneau Portail, cochez Demandes par mail, sans compte, puis Enregistrer.
+
+15
+00:02:02.800 --> 00:02:09.367
+La page publique montre alors Faire une demande à tout le monde, et Se connecter pour les comptes d'association.
+
+16
+00:02:09.667 --> 00:02:22.500
+La personne remplit la demande : la ressource, le jour, les heures, un titre, le nombre de personnes ; puis, sous Vous, son prénom, son nom, sa structure, son adresse mail et son téléphone.
+
+17
+00:02:22.800 --> 00:02:29.233
+Envoyer la demande : un mail part avec un lien, valable vingt-quatre heures. Rien n'est réservé avant.
+
+18
+00:02:29.533 --> 00:02:38.633
+Le lien ouvre la demande résumée : Confirmer ma demande. Elle arrive alors à la gestion, comme celle d'un compte, et la personne reçoit la réponse par mail.
+
+19
+00:02:38.933 --> 00:02:48.800
+Une adresse déjà connue reprend son compte du portail ; celle d'un agent est refusée : il réserve dans Resauvia. Et trois demandes par heure au plus pour une même adresse.
+
+20
+00:02:49.100 --> 00:03:03.800
+Dans Comptes des associations et partenaires, ces personnes apparaissent Demandes par mail, sans compte : Inviter à ouvrir un compte leur envoie l'invitation d'un compte ordinaire. Un compte jamais activé se ferme treize mois après sa dernière demande.
+
+21
+00:03:05.500 --> 00:03:11.300
+Panneau Sur votre site : copiez l'adresse de la page publique, pour un lien depuis votre site.
+
+22
+00:03:11.600 --> 00:03:20.833
+Ou copiez le code du cadre, pour mettre la page dans une de vos pages : seule la page des disponibilités s'y affiche, et la demande s'ouvre dans un nouvel onglet.
+
+23
+00:03:22.533 --> 00:03:34.233
+Panneau Nouveau compte : la structure, le prénom et le nom de la personne à contacter, et son adresse mail. Puis Créer le compte et l'inviter : elle reçoit un mail pour choisir son mot de passe.
+
+24
+00:03:34.533 --> 00:03:40.667
+Un compte d'association ne voit que le portail, jamais Resauvia, et il ne compte pas dans la licence.
+
+25
+00:03:40.967 --> 00:03:49.733
+Renvoyer l'invitation, si le lien a expiré après sept jours. Et Désactiver : la structure ne peut plus entrer ; ses demandes restent.
