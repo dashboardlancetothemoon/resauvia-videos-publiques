@@ -1,0 +1,73 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:11.267
+Les paramètres valent pour toute l'organisation : nom, fuseau, journée des plannings, conservation des données, mails. Ils sont dans Administration, Paramètres.
+
+2
+00:00:12.967 --> 00:00:21.167
+Le nom apparaît dans les mails. Le fuseau horaire, par exemple Europe Paris : réglez-le avant toute réservation et tout import.
+
+3
+00:00:21.467 --> 00:00:38.167
+La journée, début et fin, donne les heures des plannings et la journée entière ; la pause, facultative, sépare matin et après-midi dans le planning des agents. Puis Enregistrer. Et une personne, un groupe ou un service peut avoir ses propres horaires.
+
+4
+00:00:39.867 --> 00:00:50.367
+Au-delà de ces durées, Resauvia efface tout seul, chaque heure : les réservations terminées après trente-six mois, avec leur historique, et les comptes désactivés après douze mois.
+
+5
+00:00:50.667 --> 00:01:02.700
+Fixez-les avec votre délégué à la protection des données, et exportez avant de raccourcir ce que vous voulez garder. Son adresse, dans Contact données personnelles, s'affiche sur la page Données personnelles.
+
+6
+00:01:04.400 --> 00:01:18.367
+Resauvia respecte le RGAA ; Auxentis tient la déclaration d'accessibilité à jour : état de conformité, audit, pages contrôlées. Les administrations doivent la publier : elle est en bas du menu et de la page de connexion.
+
+7
+00:01:18.667 --> 00:01:26.467
+Panneau Accessibilité : laissez cochée Afficher la déclaration d'accessibilité, obligatoire pour les organismes publics.
+
+8
+00:01:26.767 --> 00:01:38.633
+Donnez le contact accessibilité, l'adresse mail ou la page de votre référent : sans lui, la déclaration est incomplète. Et, si vous les avez, votre schéma pluriannuel et votre plan d'action.
+
+9
+00:01:38.933 --> 00:01:48.167
+Ce qui revient à votre organisation : des noms de ressources clairs, des documents structurés, des affiches avec du texte écrit, et des vidéos sous-titrées.
+
+10
+00:01:48.467 --> 00:01:59.467
+Un défaut signalé par un agent : transmettez-le à Auxentis, il est corrigé dans la version suivante. Et Auxentis fournit, sur demande, la grille d'audit et un modèle de schéma pluriannuel.
+
+11
+00:02:01.167 --> 00:02:09.600
+Le panneau Mails montre l'aperçu d'un mail type : le lien principal devient un bouton, et le nom de l'organisation est en tête.
+
+12
+00:02:11.300 --> 00:02:25.800
+Accord du N+1 : une réservation posée pendant une absence de la personne attend l'accord de son supérieur. Cochez aussi, si vous voulez, le télétravail, la formation ou le déplacement ; rien de coché, jamais d'accord.
+
+13
+00:02:27.500 --> 00:02:42.833
+Rappels au N+1 : une réservation qui attend relance seule le supérieur, après vingt-quatre heures ouvrées, trois fois au plus, et une dernière fois la veille à huit heures. Un seul mail liste toutes ses demandes ; pendant une délégation, il va au remplaçant.
+
+14
+00:02:44.533 --> 00:02:54.100
+Jours fériés : choisissez le régime de l'organisation, métropole, Alsace-Moselle ou outre-mer. Un site d'un autre régime a le sien dans Lieux.
+
+15
+00:02:54.400 --> 00:03:04.767
+Fermer les réservations les jours fériés est décochée d'office. Fermés, seule la gestion de la ressource réserve ces jours-là, sauf sur une ressource ouverte les jours fériés.
+
+16
+00:03:05.067 --> 00:03:12.067
+Les jours fériés sont calculés : rien à saisir. Ils sont grisés sur les plannings, et écartés par les répétitions.
+
+17
+00:03:13.767 --> 00:03:25.800
+Dans Administration, Vacances scolaires, choisissez la zone de l'organisation ; un site d'une autre académie a la sienne dans Lieux. Le calendrier officiel est lu aussitôt, puis chaque jour.
+
+18
+00:03:26.100 --> 00:03:38.467
+Retirez une période à ne pas suivre, ou ajoutez-en une, comme un pont. Ensuite, une fenêtre prévient qui réserve pendant des vacances, et un mail rappelle à chacun ses réservations une semaine avant.
