@@ -1,0 +1,69 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:10.167
+Avec ce module, une tablette devant chaque salle dit si elle est libre ou occupée, montre la réunion en cours et les suivantes, et permet de réserver sur place.
+
+2
+00:00:10.467 --> 00:00:15.533
+Les tablettes se posent par la gestion des salles, dans Piloter, Tablettes de salle.
+
+3
+00:00:17.233 --> 00:00:22.467
+La tablette dit si la salle est libre, occupée, ou occupée sans réservation.
+
+4
+00:00:22.767 --> 00:00:29.700
+Salle libre : touchez Réserver maintenant, puis choisissez la durée, de quinze à soixante minutes.
+
+5
+00:00:30.000 --> 00:00:33.000
+C'est fait : la tablette passe à Occupée.
+
+6
+00:00:34.700 --> 00:00:42.100
+Pour réserver plus tard, à votre nom : sur la tablette, touchez Réserver à mon nom. Un QR code s'affiche.
+
+7
+00:00:42.400 --> 00:00:48.600
+Scannez-le avec votre téléphone, connecté à Resauvia, puis touchez Me connecter à la tablette.
+
+8
+00:00:48.900 --> 00:00:56.133
+Sur la tablette, choisissez la date, les heures et l'objet, puis Réserver. Elle vous déconnecte aussitôt.
+
+9
+00:00:56.433 --> 00:01:10.467
+Sans geste pendant une minute, elle vous déconnecte d'elle-même ; elle prévient vingt secondes avant : touchez Continuer. Et la connexion dure dix minutes au plus : vingt secondes avant la fin, Prolonger de dix minutes, dix fois au plus.
+
+10
+00:01:10.767 --> 00:01:20.900
+La salle est prise ? Une fois connecté, la tablette propose aussi Tout de suite, à côté : les salles libres du même site, le même étage d'abord, sans validation.
+
+11
+00:01:21.200 --> 00:01:31.300
+Touchez une durée sous la salle choisie : quinze, trente, quarante-cinq minutes ou une heure. Elle est réservée à votre nom, dès maintenant, et la tablette vous déconnecte.
+
+12
+00:01:33.000 --> 00:01:37.700
+Pour la gestion : Piloter, Tablettes de salle, Nouvelle tablette.
+
+13
+00:01:38.000 --> 00:01:42.767
+Donnez-lui un nom, par exemple : tablette, salle de réunion deux.
+
+14
+00:01:43.067 --> 00:01:47.333
+Choisissez la salle : une salle publique, en réservation directe.
+
+15
+00:01:47.633 --> 00:01:56.467
+Puis les réservations rapides permises, par heure et par jour. Au-delà, la tablette renvoie vers l'application, et la gestion est prévenue.
+
+16
+00:01:56.767 --> 00:02:02.300
+Créez la tablette, puis Copier l'adresse : ouvrez-la sur la tablette, en plein écran.
+
+17
+00:02:02.600 --> 00:02:08.500
+L'adresse n'est montrée qu'une fois : notez-la. Changer l'adresse en crée une nouvelle si besoin.
