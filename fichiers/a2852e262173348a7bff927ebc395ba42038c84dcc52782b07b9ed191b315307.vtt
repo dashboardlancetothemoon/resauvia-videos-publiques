@@ -1,0 +1,173 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:07.200
+Avec ce module, vous savez si les ressources servent, qui réserve, quand, et comment cela évolue.
+
+2
+00:00:07.500 --> 00:00:10.167
+Et aucun nom de personne n'y apparaît.
+
+3
+00:00:11.867 --> 00:00:18.800
+Menu Piloter, Tableau de bord. Choisissez d'abord les ressources à analyser : les salles, par exemple.
+
+4
+00:00:19.100 --> 00:00:25.700
+La période : trente derniers jours d'office, de sept jours à trois ans, ou des dates choisies.
+
+5
+00:00:26.000 --> 00:00:32.500
+Comparer à : la période précédente d'office, la même période l'an dernier, ou rien.
+
+6
+00:00:32.800 --> 00:00:39.967
+Et le lieu : tous, ou un bâtiment, ses étages compris. Chaque choix s'applique tout de suite.
+
+7
+00:00:40.267 --> 00:00:45.433
+Sous chaque chiffre, l'écart avec la comparaison : plus douze pour cent, par exemple.
+
+8
+00:00:45.733 --> 00:00:57.267
+Le droit Consulter le tableau de bord montre tout ; sans lui, vous voyez ce que vous gérez. Et les réservations annulées, refusées, les options et les informations ne comptent jamais.
+
+9
+00:00:58.967 --> 00:01:05.400
+Occupation : les ressources sont-elles occupées, à la taille des réunions ? Combien d'annulations tardives ?
+
+10
+00:01:05.700 --> 00:01:10.767
+Ressources : chaque ressource classée, et un tableau croisé à composer.
+
+11
+00:01:11.067 --> 00:01:15.100
+Qui réserve : les heures par service, et par direction.
+
+12
+00:01:15.400 --> 00:01:21.233
+Quand : les jours et les heures chargés, combien de temps à l'avance, et pour quelle durée.
+
+13
+00:01:21.533 --> 00:01:26.767
+Évolution : les réservations dans le temps, par jour, semaine ou mois.
+
+14
+00:01:27.067 --> 00:01:33.800
+Chaque graphique a Afficher les données, le tableau des chiffres, et sa Source : ce qui est compté.
+
+15
+00:01:35.500 --> 00:01:38.900
+Onglet Ressources, panneau Tableau croisé.
+
+16
+00:01:39.200 --> 00:01:47.000
+En lignes : ressource, lieu, catégorie, service, mois, jour de la semaine, heure.
+
+17
+00:01:47.300 --> 00:01:51.167
+En colonnes : une autre dimension, ou rien.
+
+18
+00:01:51.467 --> 00:01:58.133
+Dans les cases : les heures réservées, les réservations, le taux d'occupation ou les personnes.
+
+19
+00:01:58.433 --> 00:02:02.167
+Exporter le tableau, pour l'avoir en entier dans un tableur.
+
+20
+00:02:03.867 --> 00:02:11.167
+Et Exporter, en tableur : une ligne par ressource, toutes les ressources, pour la période et le lieu choisis.
+
+21
+00:02:12.867 --> 00:02:27.067
+Le rapport du tableau de bord : le tableau de bord en un PDF tout fait, pour ceux qui décident sans ouvrir Resauvia, la direction générale ou les élus. Chaque famille de ressources que vous analysez, comparée à la période précédente de même durée.
+
+22
+00:02:27.367 --> 00:02:43.567
+Deux formats. La synthèse, d'une page : pour chaque famille, l'occupation, les heures réservées, les réservations et les annulations, et ses ressources les plus et les moins réservées. Le détaillé : les mêmes repères, puis une ligne par ressource.
+
+23
+00:02:43.867 --> 00:02:51.667
+Pour le télécharger : en haut du tableau de bord, Rapport synthèse, ou Rapport détaillé, pour la période et le lieu choisis.
+
+24
+00:02:51.967 --> 00:03:06.733
+Pour l'envoyer chaque mois, chaque trimestre ou chaque année : en haut du tableau de bord, Envois réguliers. Nouveau rapport : son nom, qui sera le sujet du mail ; le contenu, synthèse ou détaillé ; et quand il est envoyé.
+
+25
+00:03:07.033 --> 00:03:17.967
+Puis les destinataires : des personnes de l'organisation, en tapant leur nom, et d'autres adresses mail, avec ou sans compte, cinquante au plus. Et Créer le rapport.
+
+26
+00:03:18.267 --> 00:03:37.733
+Il part à la fin de chaque période, à partir de huit heures, pour la période écoulée et tous les lieux, en pièce jointe d'un mail. Envoyer maintenant, Modifier et Supprimer sont à côté. Il est calculé avec les droits de la personne qui l'a enregistré : si son compte est désactivé, il ne part plus, jusqu'à ce que quelqu'un d'autre l'enregistre de nouveau.
+
+27
+00:03:39.433 --> 00:03:54.267
+Le tableau de bord de la flotte est dans Réglages, Flotte, Tableau de bord. Choisissez la période : trente jours, trois mois, douze mois, ou des dates choisies, trois ans au plus, jusqu'à aujourd'hui. Seuls les véhicules actifs comptent.
+
+28
+00:03:54.567 --> 00:04:09.733
+En haut, six repères, chacun comparé à la période précédente de même durée : la disponibilité, hors garage et hors incident qui immobilise ; les véhicules disponibles maintenant ; les kilomètres parcourus, avec les départs des dernières vingt-quatre heures.
+
+29
+00:04:10.033 --> 00:04:14.867
+Puis les heures réservées, le CO2 émis, et les entretiens faits.
+
+30
+00:04:15.167 --> 00:04:29.700
+À surveiller : les révisions et contrôles techniques en retard ou à prévoir, les véhicules arrêtés au garage ou par un incident, l'usage hors norme ; chaque ligne mène au véhicule. À côté, la répartition par énergie.
+
+31
+00:04:30.000 --> 00:04:38.000
+Les dix véhicules les plus utilisés, en heures réservées, avec leurs kilomètres. Le suivi du kilométrage, mois par mois.
+
+32
+00:04:38.300 --> 00:04:43.767
+Le niveau d'usage : les véhicules sous-utilisés, et les sur-utilisés.
+
+33
+00:04:44.067 --> 00:04:50.367
+Et les émissions de CO2 : les kilomètres multipliés par le CO2 à l'échappement de chaque véhicule.
+
+34
+00:04:50.667 --> 00:05:01.433
+Pour des chiffres justes, donnez le CO2 de chaque véhicule sur sa fiche, à la case V7 de la carte grise ; et dans les règles de la flotte, un CO2 par défaut pour chaque énergie.
+
+35
+00:05:01.733 --> 00:05:07.200
+Un véhicule incomplet est signalé sous le panneau concerné, avec le lien vers sa fiche.
+
+36
+00:05:07.500 --> 00:05:17.233
+Sous chaque graphique, Afficher les données montre les chiffres de chaque véhicule ; au-delà de cinquante, Voir le tableau complet les ouvre tous dans une grande fenêtre.
+
+37
+00:05:17.533 --> 00:05:26.033
+Le rapport de la flotte : le tableau de bord en un PDF tout fait, pour ceux qui décident sans ouvrir Resauvia, la direction générale ou les élus.
+
+38
+00:05:26.333 --> 00:05:40.633
+Deux formats. La synthèse, d'une page : les repères comparés à la période précédente, les points d'attention, et les véhicules sous- et sur-utilisés. Le détaillé : les mêmes repères, puis une ligne par véhicule.
+
+39
+00:05:40.933 --> 00:05:48.000
+Pour le télécharger : en haut du tableau de bord, Rapport synthèse, ou Rapport détaillé, pour la période affichée.
+
+40
+00:05:48.300 --> 00:06:03.067
+Pour l'envoyer chaque mois, chaque trimestre ou chaque année : en haut du tableau de bord, Envois réguliers. Nouveau rapport : son nom, qui sera le sujet du mail ; le contenu, synthèse ou détaillé ; et quand il est envoyé.
+
+41
+00:06:03.367 --> 00:06:13.167
+Puis les destinataires : des personnes de l'organisation, et d'autres adresses mail, avec ou sans compte, cinquante au plus. Et Créer le rapport.
+
+42
+00:06:13.467 --> 00:06:26.800
+Il part à la fin de chaque période, à partir de huit heures, pour la période écoulée, en pièce jointe d'un mail. Envoyer maintenant l'envoie tout de suite, pour la dernière période close ; Modifier et Supprimer sont à côté.
+
+43
+00:06:27.100 --> 00:06:36.267
+Il est calculé avec les droits de la personne qui l'a enregistré : si son compte est désactivé, il ne part plus, et quelqu'un d'autre le reprend en l'enregistrant de nouveau.
