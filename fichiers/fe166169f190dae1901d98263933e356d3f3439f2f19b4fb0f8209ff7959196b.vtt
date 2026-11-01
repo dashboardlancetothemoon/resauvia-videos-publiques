@@ -1,0 +1,113 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:09.900
+Avec ce module, les armoires à clés et les casiers Dubois Industries remettent la clé de la ressource réservée à la bonne personne, avec son badge ou son code.
+
+2
+00:00:10.200 --> 00:00:13.533
+Chaque retrait et chaque retour sont tracés.
+
+3
+00:00:15.233 --> 00:00:17.267
+Réservez comme d'habitude.
+
+4
+00:00:17.567 --> 00:00:23.233
+À l'armoire, présentez votre badge ou tapez votre code : elle ouvre la case de votre clé.
+
+5
+00:00:23.533 --> 00:00:26.433
+Au retour, remettez la clé dans l'armoire.
+
+6
+00:00:26.733 --> 00:00:34.200
+La clé est disponible trente minutes avant le début, et jusqu'à une heure après la fin ; seulement pour une réservation confirmée.
+
+7
+00:00:34.500 --> 00:00:39.600
+Votre accès se lit dans Mon compte. Il manque quelque chose ? Voyez votre administrateur.
+
+8
+00:00:39.900 --> 00:00:46.167
+Clé pas rendue trente minutes après la fin : vous, votre responsable et la gestion êtes prévenus.
+
+9
+00:00:46.467 --> 00:00:55.467
+Votre réservation est aussi dans ETM, à votre nom : pendant votre réservation, l'armoire affiche la clé avec votre nom et l'heure de fin.
+
+10
+00:00:55.767 --> 00:01:03.333
+Certaines clés ne se réservent qu'à certains moments, réglés dans ETM : une réservation hors de ces moments est refusée.
+
+11
+00:01:03.633 --> 00:01:14.133
+Et une réservation faite directement à l'armoire arrive dans Resauvia à votre nom, avec les contrôles habituels. Si elle ne passe pas, vous recevez un mail avec un lien pour la refaire.
+
+12
+00:01:15.833 --> 00:01:29.333
+Pour suivre les clés : Piloter, Armoires à clés, onglet Armoires. Chaque armoire, rangée par lieu, dessinée case par case. Vous y voyez les clés des ressources que vous gérez ; l'administration les voit toutes.
+
+13
+00:01:29.633 --> 00:01:40.533
+L'entrée n'apparaît que si vous gérez au moins une ressource dont la clé est dans une armoire. La page se met à jour toute seule toutes les trente secondes ; Mettre en pause l'actualisation l'arrête.
+
+14
+00:01:40.833 --> 00:01:53.833
+Vos chiffres, en haut de la page : quatre chiffres que vous choisissez, pour vous seulement. D'office : les clés dans les armoires, les clés sorties, celles pas rendues à l'heure, et les armoires qui ne répondent plus, en ce moment.
+
+15
+00:01:54.133 --> 00:02:08.400
+Pour les changer : Choisir mes chiffres. Pour chaque chiffre, ce qu'il compte et, pour un chiffre d'une période, sa durée : une semaine, un mois, trois mois ou un an, comparée à la période d'avant. Puis Enregistrer.
+
+16
+00:02:08.700 --> 00:02:24.333
+Les chiffres d'une période : les clés empruntées, les réservations, les retards, les emprunts sans réservation, la durée moyenne de sortie, et les alertes des armoires, comme une porte restée ouverte. Ils ne comptent que les clés des ressources que vous gérez.
+
+17
+00:02:24.633 --> 00:02:31.967
+Où est la clé ? Tapez une salle, un véhicule ou un numéro : sa case est entourée, et la ligne dit où elle est.
+
+18
+00:02:32.267 --> 00:02:36.433
+Chaque case est un emplacement de l'armoire, avec l'état de sa clé.
+
+19
+00:02:36.733 --> 00:02:49.333
+Dans l'armoire : la clé est rangée. Sortie : quelqu'un l'a prise, pendant sa réservation. Pas rendue à l'heure : sa réservation est finie depuis plus de trente minutes, et la case dit En retard.
+
+20
+00:02:49.633 --> 00:03:04.800
+Sans porte-clés : l'objet n'a pas de porte-clés relié dans ETM, l'armoire ne peut pas le remettre. Emplacement libre : aucune clé à cette place. Autre service : la clé d'une ressource que vous ne gérez pas ; la case est prise, sans plus.
+
+21
+00:03:05.100 --> 00:03:13.133
+Touchez une case : qui a sorti la clé et quand, sa réservation et jusqu'à quand, puis Historique de cette clé.
+
+22
+00:03:13.433 --> 00:03:29.567
+L'onglet Mouvements montre chaque sortie, retour et alerte des clés que vous gérez, avec la personne : recherche, filtres et export. Et le lieu de chaque armoire se règle dans Administration, Connexions, Armoires Dubois, panneau Lieu des armoires.
+
+23
+00:03:31.267 --> 00:03:43.200
+Pour l'administration : Administration, Connexions, Armoires à clés et casiers. L'adresse du serveur ETM, le compte ETM du logiciel et son mot de passe, donnés par Dubois Industries.
+
+24
+00:03:43.500 --> 00:03:48.800
+Puis Tester la connexion : l'essai dit aussi ce que votre ETM sait faire.
+
+25
+00:03:49.100 --> 00:03:53.633
+Objets de l'armoire : reliez chaque clé à la fiche de sa ressource.
+
+26
+00:03:53.933 --> 00:04:02.033
+Cochez Synchroniser les personnes et les clés avec les armoires, puis Enregistrer. La synchronisation passe toutes les deux minutes.
+
+27
+00:04:02.333 --> 00:04:10.467
+Sur la fiche de chaque personne : son badge, son code d'accès, et la case Peut ouvrir les armoires à clés et les casiers.
+
+28
+00:04:10.767 --> 00:04:19.433
+Une armoire renommée dans ETM change de nom partout ; supprimée, elle n'est retirée qu'après vingt-quatre heures, et les administrateurs sont prévenus.
