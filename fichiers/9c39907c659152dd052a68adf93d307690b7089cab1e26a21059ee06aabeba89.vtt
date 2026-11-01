@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:05.600
+Avec ce module, chacun sait quelle carte carburant prendre avec chaque véhicule.
+
+2
+00:00:05.900 --> 00:00:14.967
+La flotte lie chaque carte à son véhicule et importe le relevé du fournisseur pour vérifier les pleins ; le conducteur retrouve sa carte sur sa réservation.
+
+3
+00:00:16.667 --> 00:00:25.600
+Sur la réservation d'un véhicule qui a sa carte, la ligne Carte carburant la nomme : carte zéro sept, boîte à gants, chez TotalEnergies.
+
+4
+00:00:25.900 --> 00:00:31.933
+Le mail de confirmation la rappelle aussi. Et les pleins faits pendant sa réservation apparaissent sur sa fiche.
+
+5
+00:00:33.633 --> 00:00:38.533
+Pour la flotte : Réglages, Cartes carburant, Nouvelle carte.
+
+6
+00:00:38.833 --> 00:00:45.033
+Le nom de la carte, c'est ce qui permet de la retrouver : par exemple, carte zéro sept, boîte à gants.
+
+7
+00:00:45.333 --> 00:00:51.767
+Jamais le numéro complet ni le code : Resauvia refuse un nom qui ressemble à un numéro de carte.
+
+8
+00:00:52.067 --> 00:00:56.700
+Le fournisseur, si vous voulez : TotalEnergies, AS24.
+
+9
+00:00:57.000 --> 00:01:05.667
+Les quatre derniers chiffres, si vous voulez : ils servent à reconnaître ses pleins dans le relevé du fournisseur. Resauvia ne garde jamais le numéro complet.
+
+10
+00:01:05.967 --> 00:01:09.700
+Puis le véhicule qui l'emporte : une carte par véhicule.
+
+11
+00:01:10.000 --> 00:01:11.600
+Créez la carte.
+
+12
+00:01:11.900 --> 00:01:17.967
+Vous pouvez aussi la lier depuis la fiche du véhicule : panneau Carte carburant, Lier une carte.
+
+13
+00:01:18.267 --> 00:01:24.233
+Une carte sans véhicule reste en réserve. Perdue ou résiliée : Supprimer.
+
+14
+00:01:25.933 --> 00:01:32.933
+Pour vérifier les pleins : Réglages, Cartes carburant, onglet Pleins, puis Importer un relevé.
+
+15
+00:01:33.233 --> 00:01:40.400
+Le fichier du relevé, celui que vous envoie votre fournisseur, en CSV ou en Excel. Ou collez ses lignes.
+
+16
+00:01:40.700 --> 00:01:46.733
+Vérifier : chaque ligne dit son véhicule et ce qui est signalé. Rien n'est encore écrit.
+
+17
+00:01:47.033 --> 00:01:49.333
+Puis importez les pleins prêts.
+
+18
+00:01:49.633 --> 00:01:57.567
+Les colonnes sont reconnues par leur titre, comme les écrivent TotalEnergies, Shell, DKV, AS24 ou Corpay.
+
+19
+00:01:57.867 --> 00:02:12.800
+Le véhicule d'un plein, c'est celui de l'immatriculation tapée à la pompe, sinon celui de la carte, par ses quatre derniers chiffres. Et chaque plein est rattaché à la réservation du véhicule à ce moment, d'une heure avant le départ à une heure après le retour.
+
+20
+00:02:13.100 --> 00:02:20.967
+Un relevé importé deux fois n'ajoute rien. Et au-delà d'un mégaoctet ou de cinq mille lignes, importez-le en plusieurs périodes.
+
+21
+00:02:22.667 --> 00:02:28.533
+Trois cas sont signalés par mail à la gestion du véhicule, un mail par véhicule et par import.
+
+22
+00:02:28.833 --> 00:02:46.033
+Hors réservation : aucune réservation du véhicule à ce moment. Plus que le réservoir : plus de dix pour cent au-dessus de sa contenance. Carburant inadapté : de l'essence dans un diesel, du gazole dans une voiture à essence, ou un carburant dans un véhicule électrique.
+
+23
+00:02:46.333 --> 00:02:53.067
+La liste Pleins montre tous les pleins, avec la recherche, les filtres, dont Signalé, et l'export.
+
+24
+00:02:53.367 --> 00:03:05.733
+Sur la fiche d'un véhicule, le panneau Pleins montre ses derniers pleins, et Tout voir, la liste. Sur une réservation, ceux faits pendant la réservation. Les pleins sont effacés treize mois après.
