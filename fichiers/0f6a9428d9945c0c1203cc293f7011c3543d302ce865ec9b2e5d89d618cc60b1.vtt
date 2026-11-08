@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:08.167
+L'atelier : confier un véhicule à l'atelier de la flotte, suivre le travail, et garder le coût réel de l'entretien.
+
+2
+00:00:09.867 --> 00:00:14.133
+Dans Réglages, Règles de la flotte, panneau Atelier.
+
+3
+00:00:14.433 --> 00:00:22.300
+Groupe de l'atelier : le groupe de vos mécaniciens. Il ne peut pas s'agir d'un groupe qui administre. Puis Enregistrer.
+
+4
+00:00:22.600 --> 00:00:27.900
+Sans atelier choisi, vous planifiez quand même les entretiens : la flotte les suit seule.
+
+5
+00:00:29.600 --> 00:00:35.733
+Sur la fiche du véhicule, onglet Papiers et échéances, panneau Planifier un entretien.
+
+6
+00:00:36.033 --> 00:00:40.567
+Indiquez le type d'entretien, l'arrivée à l'atelier et le retour.
+
+7
+00:00:40.867 --> 00:00:52.333
+Planifiez. Le véhicule ne se réserve plus pendant ce temps, et les réservations touchées sont prévenues, avec un véhicule libre de la même catégorie, jamais le même pour deux réservations au même moment.
+
+8
+00:00:52.633 --> 00:01:01.533
+Au retour, Retour de l'atelier : le compteur, le coût, les travaux. L'entretien passe dans l'Historique, et les échéances suivent.
+
+9
+00:01:01.833 --> 00:01:08.600
+Depuis le planning des véhicules : cliquez sur une case libre, puis Plus d'options, Planifier un entretien.
+
+10
+00:01:10.300 --> 00:01:15.933
+Un mécanicien, connecté, ouvre l'entretien dans Mon planning : bouton Voir.
+
+11
+00:01:16.233 --> 00:01:19.867
+Il remplit la fiche d'intervention, puis C'est fait.
+
+12
+00:01:20.167 --> 00:01:26.700
+La flotte reçoit un mail, Entretien déclaré fini. Elle note ensuite le retour sur la fiche du véhicule.
+
+13
+00:01:27.000 --> 00:01:32.533
+Onglet Papiers et échéances, panneau À l'atelier : Retour de l'atelier.
+
+14
+00:01:32.833 --> 00:01:38.500
+Vérifiez le compteur et les travaux, proposés d'après la fiche, puis Enregistrer le retour.
+
+15
+00:01:38.800 --> 00:01:44.267
+Pas déclaré fini au retour prévu : la flotte et l'atelier reçoivent un mail, une fois.
+
+16
+00:01:45.967 --> 00:01:53.133
+Un entretien confié à l'atelier a sa fiche d'intervention, remplie par les mécaniciens et la gestion de la flotte, connectés.
+
+17
+00:01:53.433 --> 00:01:56.100
+Ouvrez la fiche d'intervention de l'entretien.
+
+18
+00:01:56.400 --> 00:02:12.300
+Notez les travaux faits, les pièces, avec Ajouter une pièce : désignation, référence, quantité. Puis le temps passé, le compteur, des photos à l'arrivée et au retour, et le technicien : vous, ou un autre membre de l'atelier.
+
+19
+00:02:12.600 --> 00:02:17.033
+Enregistrer la fiche : à tout moment, autant de fois qu'il le faut.
+
+20
+00:02:17.333 --> 00:02:24.000
+L'entretien fini, sur la même page : C'est fait. La flotte reçoit le mail avec le résumé de la fiche.
+
+21
+00:02:24.300 --> 00:02:31.400
+La fiche se remplit de l'arrivée à l'atelier jusqu'à une semaine après le retour prévu ; ensuite, elle se lit seulement.
+
+22
+00:02:31.700 --> 00:02:39.733
+Dix photos au plus à l'arrivée, dix au retour, de dix mégaoctets chacune au plus. Évitez de photographier des personnes.
+
+23
+00:02:40.033 --> 00:02:47.967
+Le compteur de la fiche est proposé au Retour de l'atelier ; la flotte le corrige si besoin. Effacé de la fiche, il n'est plus proposé.
+
+24
+00:02:48.267 --> 00:03:00.700
+La flotte retrouve les fiches et les photos sur la fiche du véhicule, panneau Fiches et photos de l'atelier, puis dans la ligne de l'entretien de l'Historique. Et elle les imprime : Imprimer la fiche, en PDF.
