@@ -1,0 +1,97 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:06.967
+Avec ce module, vous voyez sur le plan de l'étage les salles et les bureaux libres, et vous réservez d'un clic.
+
+2
+00:00:07.267 --> 00:00:10.433
+La gestion y ajoute le plan de chaque étage.
+
+3
+00:00:12.133 --> 00:00:19.067
+Pour voir le plan : Plannings, Espaces, Plan ; ou Réserver, Une salle, Plan.
+
+4
+00:00:19.367 --> 00:00:23.867
+Choisissez l'étage, la date et les heures, puis Afficher.
+
+5
+00:00:24.167 --> 00:00:26.933
+Les salles prennent la couleur de leur état.
+
+6
+00:00:27.233 --> 00:00:32.300
+Libre, libre sur validation, déjà prise, ou trop petite.
+
+7
+00:00:32.600 --> 00:00:35.367
+Cliquez sur une salle libre pour la réserver.
+
+8
+00:00:35.667 --> 00:00:40.100
+Au clavier, chaque salle du plan se choisit avec Tab et Entrée.
+
+9
+00:00:41.800 --> 00:00:50.633
+Pour la gestion : Réglages, Plans d'étage, choisissez l'étage, puis Image du plan : une image ou un PDF du plan.
+
+10
+00:00:50.933 --> 00:00:55.633
+Resauvia trouve les pièces tout seul, et propose la salle qui porte le même nom.
+
+11
+00:00:55.933 --> 00:00:58.600
+Détecter les pièces relit le plan.
+
+12
+00:00:58.900 --> 00:01:06.933
+Pour chaque pièce : Relier à une salle, Créer une salle, ou Pas à gérer, pour un couloir ou un local technique.
+
+13
+00:01:07.233 --> 00:01:12.767
+Une pièce mal trouvée ? Placez la salle à la main sur le plan, puis Enregistrer les zones.
+
+14
+00:01:14.467 --> 00:01:20.600
+Un plan large réunit les salles de plusieurs sites sur un même plan : un quartier, une ville.
+
+15
+00:01:20.900 --> 00:01:28.300
+Plannings, Espaces, Plan, Plans larges, puis le plan. Choisissez la date, et Afficher.
+
+16
+00:01:28.600 --> 00:01:39.367
+Chaque repère est une salle ; plein, elle a une réservation ce jour-là. Son numéro la retrouve dans la liste : ses réservations, leur usage, et les usages qu'elle peut accueillir.
+
+17
+00:01:39.667 --> 00:01:50.333
+Un trait entre deux repères : deux réservations trop proches au même moment, d'après une règle de voisinage. Sous le plan, Voisinages à vérifier les redit en mots.
+
+18
+00:01:52.033 --> 00:02:01.033
+Pour la gestion : Réglages, Plans d'étage, Plans larges, Nouveau plan. Son nom, puis son image, ou un PDF.
+
+19
+00:02:01.333 --> 00:02:11.767
+Choisissez une salle, de n'importe quel site, puis cliquez sur le plan : son repère s'y pose. Et Enregistrer les repères. Sans souris : Placer au clavier.
+
+20
+00:02:12.067 --> 00:02:21.367
+Onglet Échelle : cliquez aux deux bouts d'une longueur connue, un terrain ou une rue, tapez sa longueur réelle en mètres, et Enregistrer l'échelle.
+
+21
+00:02:23.067 --> 00:02:31.367
+Deux usages peuvent se gêner au même moment, trop près : un match de rugby à côté d'un match de football. Une règle de voisinage le dit.
+
+22
+00:02:31.667 --> 00:02:44.633
+Réglages, Plans d'étage, Règles de voisinage, Nouvelle règle. Les deux usages, la distance en mètres, puis ce que fait la règle : signaler à la gestion, ou refuser la réservation.
+
+23
+00:02:44.933 --> 00:02:53.700
+Elle s'applique quand les réservations disent leur usage, que les deux salles sont sur un même plan large à l'échelle réglée, et qu'elles ont lieu au même moment.
+
+24
+00:02:54.000 --> 00:03:04.433
+Signalée, la réservation est posée : la personne le lit avant d'envoyer, et la gestion la retrouve dans À traiter, Voisinages à vérifier, avec le bouton Vu.
