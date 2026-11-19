@@ -1,0 +1,129 @@
+WEBVTT
+
+1
+00:00:00.600 --> 00:00:04.967
+Des capteurs posés dans vos salles et vos bureaux disent s'il y a quelqu'un.
+
+2
+00:00:05.267 --> 00:00:11.067
+Certains comptent aussi les personnes, ou mesurent le CO2, la température et l'humidité.
+
+3
+00:00:11.367 --> 00:00:18.533
+Resauvia montre l'occupation en direct, confirme la présence, et libère une réservation où personne n'est venu.
+
+4
+00:00:20.233 --> 00:00:23.967
+Dans le menu Piloter, ouvrez Objets connectés.
+
+5
+00:00:24.267 --> 00:00:27.833
+S'il y a plusieurs sites, choisissez d'abord un lieu.
+
+6
+00:00:28.133 --> 00:00:32.800
+Le résumé compte les salles équipées, et combien sont dans chaque état.
+
+7
+00:00:33.100 --> 00:00:35.867
+Puis chaque salle équipée a sa carte.
+
+8
+00:00:36.167 --> 00:00:44.433
+Occupée sans réservation : quelqu'un est là sans avoir réservé. Réservée, personne : personne n'est encore arrivé.
+
+9
+00:00:44.733 --> 00:00:51.333
+La carte dit aussi si la présence est confirmée, ou à quelle heure la salle se libérera si personne n'arrive.
+
+10
+00:00:51.633 --> 00:00:57.767
+Un capteur sans mesure depuis quinze minutes est dit silencieux. Il ne libère jamais une réservation.
+
+11
+00:00:58.067 --> 00:01:00.433
+La page se met à jour toute seule.
+
+12
+00:01:02.133 --> 00:01:07.600
+Un capteur envoie ses mesures à la plateforme de son fabricant, qui les transmet à Resauvia.
+
+13
+00:01:07.900 --> 00:01:12.867
+Ce branchement se fait une fois, avec Auxentis ou votre service informatique.
+
+14
+00:01:13.167 --> 00:01:19.533
+Dans l'onglet Connexions, créez une connexion : un nom, et le format des messages de la plateforme.
+
+15
+00:01:19.833 --> 00:01:28.300
+Resauvia donne alors une adresse de réception, montrée une seule fois. Copiez-la pour la personne qui règle la plateforme, et ne la diffusez pas.
+
+16
+00:01:28.600 --> 00:01:34.700
+Sur la fiche de la connexion : les appareils qui écrivent sans être déclarés, et tous ses capteurs.
+
+17
+00:01:35.000 --> 00:01:44.000
+Puis, dans l'onglet Capteurs, déclarez chaque capteur : son nom, sa connexion, son identifiant chez le fabricant, et sa salle.
+
+18
+00:01:44.300 --> 00:01:47.133
+Ses messages sont reconnus dès leur arrivée.
+
+19
+00:01:48.833 --> 00:01:53.733
+Un nouveau capteur reste d'abord en essai : ses mesures ne servent qu'à sa fiche.
+
+20
+00:01:54.033 --> 00:01:57.133
+Sur sa fiche, vérifiez les dernières valeurs.
+
+21
+00:01:57.433 --> 00:02:01.533
+Sans attendre le capteur, vous pouvez aussi envoyer une mesure d'essai.
+
+22
+00:02:01.833 --> 00:02:06.367
+Quand les mesures arrivent bien, passez-le en service, puis enregistrez.
+
+23
+00:02:06.667 --> 00:02:12.233
+En service, sa présence confirme les réservations et s'affiche sur les tablettes et les écrans.
+
+24
+00:02:12.533 --> 00:02:17.900
+Hors service, ses messages sont ignorés : une pile à changer, un capteur démonté.
+
+25
+00:02:18.200 --> 00:02:23.067
+Plus bas sur la fiche : les courbes, et les derniers messages reçus.
+
+26
+00:02:24.767 --> 00:02:29.967
+Dans Réglages, ouvrez la fiche de la salle ou du bureau, onglet Capteurs.
+
+27
+00:02:30.267 --> 00:02:33.033
+Vous y voyez ses capteurs et leur état.
+
+28
+00:02:33.333 --> 00:02:42.633
+Choisissez quand libérer la réservation si personne n'est arrivé : jamais, ou dix à trente minutes après le début. Puis enregistrez.
+
+29
+00:02:42.933 --> 00:02:49.600
+Si quelqu'un arrive, même un peu avant le début, la réservation est confirmée. Elle ne sera jamais libérée.
+
+30
+00:02:49.900 --> 00:02:54.767
+Si personne n'arrive, la tablette de la salle prévient de l'heure où elle sera libérée.
+
+31
+00:02:55.067 --> 00:03:01.333
+Le délai passé, la réservation est annulée. Le demandeur et le bénéficiaire reçoivent un mail.
+
+32
+00:03:01.633 --> 00:03:07.667
+Seules les réservations confirmées sont libérées, et jamais par un capteur silencieux ou en essai.
